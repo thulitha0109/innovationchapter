@@ -1,0 +1,37 @@
+{
+    "items": [
+        {
+            "image": {
+                "desktop": "/images/Slider_01.jpg",
+                "mobile": "/images/Slider_01.jpg"
+            },
+            "title": "Digital Marketing<br />Turning Clicks into Conversionsing",
+            "text": "We blend design, strategy, and technology to turn visitors into loyal customers.",
+            "button": {
+                "label": "Learn More",
+                "link": "/about"
+            }
+        },
+        {
+            "video": "/video/video-digital1.mp4",
+            "title": "International Branding <br />Build a Global Legacy",
+            "text": "Connect, inspire, and thrive in markets across the world.",
+            "button": {
+                "label": "View Projects",
+                "link": "/projects"
+            }
+        },
+        {
+            "image": {
+                "desktop": "/images/Slider_02.jpg",
+                "mobile": "/images/Slider_02.jpg"
+            },
+            "title": "Shopify Experts <br />Powering Your E-Commerce Success",
+            "text": "As certified Shopify Partners, we design, build, and optimize stores that sell. Seamless user experience meets conversion-driven strategy.",
+            "button": {
+                "label": "Our Services",
+                "link": "/services"
+            }
+        }
+    ]
+}
