@@ -6,20 +6,24 @@
         "portfolio": {
             "categories": [
                 {
-                    "label": "Marketing",
-                    "slug": "marketing"
-                },
-                {
-                    "label": "Interactive",
-                    "slug": "interactive"
+                    "label": "Custom Solutions",
+                    "slug": "custome-solutions"
                 },
                 {
                     "label": "Design",
                     "slug": "design"
                 },
                 {
-                    "label": "Branding",
-                    "slug": "branding"
+                    "label": "Marketing",
+                    "slug": "marketing"
+                },
+                {
+                    "label": "Shopify",
+                    "slug": "shopify"
+                },
+                {
+                    "label": "UI UX",
+                    "slug": "ux-ui"
                 }
             ]
         }

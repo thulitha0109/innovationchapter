@@ -1,9 +1,9 @@
 ---
 #preview
-title: Market Economy Graphics
-image: /images/project-2-2-1200x982.jpg
-category: Marketing
-category_slug: marketing
+title: DSI Plastic
+image: /images/DSIPlastic/DSI_1200x900MainIMG.jpg
+category: Design
+category_slug: design
 type: UI/UX Design, Mobile Apps, Interactive Design
 team: Alexander Bravo
 date: 2021-2023

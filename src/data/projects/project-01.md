@@ -1,11 +1,11 @@
 ---
 #preview
-title: Museums Art Concept
-image: /images/project-n01-3-1200x900.jpg
-category: Branding
-category_slug: branding
-type: Art Direction, Branding, Interactive Design
-team: Thomas Jackki
+title: Ceciliyan
+image: /images/Ceciliyan/1200x900Main.jpg
+category: Design
+category_slug: design
+type: UI/UX Design, Mobile Apps, Interactive Design
+team: Alexander Bravo
 date: 2021-2023
 
 #full details
@@ -25,22 +25,22 @@ details:
 
 gallery: 
     items:
-        - image: /images/project-2-2-1200x982.jpg
+        - image: /images/Ceciliyan/1200x982_Ciciliyan_02.jpg
           alt: "image"
 
-        - image: /images/project-2-1200x988.jpg
+        - image: /images/Ceciliyan/1200x900Main.jpg
           alt: "image"
 
-        - image: /images/project-4.jpg
+        - image: /images/Ceciliyan/1200x982_Ciciliyan.jpg
           alt: "image"
         
-        - image: /images/project-3-1200x750.jpg
+        - image: /images/Ceciliyan/1200x750_Ciciliyan.jpg
           alt: "image"
 
-        - image: /images/project-1-1080x800.jpg
+        - image: /images/Ceciliyan/1200x800_Ciciliyan.jpg
           alt: "image"
         
-        - image: /images/project-8-1080x800.jpg
+        - image: /images/Ceciliyan/1200x982_Ciciliyan_02.jpg
           alt: "image"
 
 additional:

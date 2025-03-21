@@ -1,7 +1,7 @@
 ---
 #preview
-title: Business Card Logo
-image: /images/project-4.jpg
+title: Royal Touch Ceylon Tea
+image: /images/RoyalTouch/1200x982_RT_02.jpg
 category: Design
 category_slug: design
 type: Marketing, Rendering, 3D Design
