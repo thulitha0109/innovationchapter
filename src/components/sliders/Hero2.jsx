@@ -1,10 +1,19 @@
 import { sliderProps } from "@common/sliderProps";
 import { Swiper, SwiperSlide } from "swiper/react";
+import { useState } from "react";
 
 import Data from '@data/sliders/hero-2';
 import Link from "next/link";
 
 const Hero2Slider = () => {
+
+        const [mute, setMute] = useState(false);
+    
+        const clickedMuteHeroVideo = (e) => {
+            e.preventDefault();
+            setMute(!mute);
+        };
+    
   return (
     <>
         {/* Onovo Hero */}
@@ -30,6 +39,15 @@ const Hero2Slider = () => {
                                     <source src={item.video} type="video/mp4" />
                                 </video>
                                 <div className="ovrl" style={{"opacity": "0.95"}} />
+                                <a href="#" className={mute ? "onovo-play-btn active" : "onovo-play-btn"} onClick={(e) => clickedMuteHeroVideo(e) }>
+                                    <span className="play-circles" />
+                                    <span className="play-lines">
+                                        <span />
+                                        <span />
+                                        <span />
+                                        <span />
+                                    </span>
+                                </a>
                             </div>
                             }
                             <div className="container">
