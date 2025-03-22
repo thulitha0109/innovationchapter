@@ -2,7 +2,7 @@
 #preview details
 image: "/images/posts3.jpg"
 icon: "/images/serv-icon1.png"
-title: "Social Media Campaign"
+title: "Guidelines"
 short: "Lorem ipm dolor amet, consectetur adipiing lit Sunt sed ad possimus ils magnam maores."
 
 #full details

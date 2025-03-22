@@ -1,8 +1,8 @@
 ---
 #preview details
-image: "/images/post6.jpg"
-icon: "/images/serv-icon6.png"
-title: "Brand Strategy"
+image: "/images/posts4.jpg"
+icon: "/images/serv-icon4.png"
+title: "Concepts"
 short: "Lorem ipm dolor amet, consectetur adipiing lit Sunt sed ad possimus ils magnam maores."
 
 #full details
@@ -48,4 +48,4 @@ additional:
 
 Our knowledgeable cost management experts understand the importance of delivering a project to meet your expectations in terms of cost, time, and quality. We will work with you to find the right, flexible and valuable solutions. No matter what sector you operate in, or the **scale of your project**, our team have the experience and know-how to support you with your goals.
 
-In addition to construction consultancy services **Bureau Veritas is a global leader in testing**, inspection and certification (TIC) and we have more than 190+ years of experience meaning that we also can assist you in other areas of your business if needed.              
+In addition to construction consultancy services **Bureau Veritas is a global leader in testing**, inspection and certification (TIC) and we have more than 190+ years of experience meaning that we also can assist you in other areas of your business if needed.   

@@ -11,34 +11,71 @@
             "icon": "/images/serv-icon4-1.png",
             "title": "Brand Consulting",
             "list": [
-                "Brand Strategy",
-                "Visual Identity",
-                "Naming",
-                "Guidelines"
+                {
+                    "text": "Brand Strategy",
+                    "link": "/services/service-1"
+                },
+                {
+                    "text": "Visual Identity",
+                    "link": "/services/service-2"
+                },
+                {
+                    "text": "Naming",
+                    "link": "/services/service-3"
+                },
+                {
+                    "text": "Guidelines",
+                    "link": "/services/service-4"
+                }
             ],
-            "link": "/services/service-1"
+            "link": "/services"
         },
         {
-            "icon": "/images/serv-icon5-1.png",
+            "icon": "/images/serv-icon4-1.png",
+            "title": "Brand Develpment",
+            "list": [
+                {
+                    "text": "Brand Design",
+                    "link": "/services/service-5"
+                },
+                {
+                    "text": "Photography",
+                    "link": "/services/service-6"
+                },
+                {
+                    "text": "UI - UX",
+                    "link": "/services/service-7"
+                },
+                {
+                    "text": "Videography",
+                    "link": "/services/service-8"
+                }
+            ],
+            "link": "/services/service-5"
+        },
+        {
+            "icon": "/images/serv-icon4-1.png",
             "title": "Digital Solutions",
             "list": [
-                "Digital Marketing",
-                "Concepts",
-                "Shopify Web/Apps",
-                "Custom Solutions"
+                {
+                    "text": "Concepts",
+                    "link": "/services/service-9"
+                },
+                {
+                    "text": "Custom Solutions",
+                    "link": "/services/service-10"
+                },
+                {
+                    "text": "Digital Marketing",
+                    "link": "/services/service-11"
+                },
+                {
+                    "text": "Shopify Web-Apps",
+                    "link": "/services/service-12"
+                }
             ],
-            "link": "/services/service-2"
-        },
-        {
-            "icon": "/images/serv-icon6-1.png",
-            "title": "Brand Develop",
-            "list": [
-                "UI / UX",
-                "Photography",
-                "Videography",
-                "Brand Design"
-            ],
-            "link": "/services/service-3"
+            "link": "/services/service-9"
         }
+
     ]
 }

@@ -2,25 +2,28 @@
 #preview details
 image: "/images/posts4.jpg"
 icon: "/images/serv-icon4.png"
-title: "Visual Identity"
+title: "Brand Design"
 short: "Lorem ipm dolor amet, consectetur adipiing lit Sunt sed ad possimus ils magnam maores."
 
 #full details
 accordion:
   enabled: 1
-  title: Solving Business Problems
+  title: What We Offer
   items:
-    - heading: Secure Management and Workforce?
-      content: Duis sed odio sit amet nibh vulputate cursus a sit tellus a odio tincdunt ilm auctor Class apten sociosqu a ds Etiam ante ex fermentum litora aorquper conuauris ine odi. Duis sed odio sit amet nibh vulputate cursus a sit tellus a odio tincdunt ilm auctor Class apten sociosqu a ds Et iam ante ex fermentum litora aorquper conuauris ine odi.
+    - heading: Logo Design
+      content: "<li>Custom, high-quality logos tailored to your brand</li> 
+                <li>Multiple concepts with refined iterations</li>
+                <li>Scalable designs for all digital & print needs </li>"
 
-    - heading: Logistics Workforce on Track?
-      content: Duis sed odio sit amet nibh vulputate cursus a sit tellus a odio tincdunt ilm auctor Class apten sociosqu a ds Etiam ante ex fermentum litora aorquper conuauris ine odi. Duis sed odio sit amet nibh vulputate cursus a sit tellus a odio tincdunt ilm auctor Class apten sociosqu a ds Et iam ante ex fermentum litora aorquper conuauris ine odi.
+    - heading: Brand Guidelines
+      content: "<li>Defined color palettes, typography & visual elements</li> 
+                <li>Usage rules for consistency across platforms</li>
+                <li>Comprehensive brand identity documentation</li>"
 
-    - heading: Online Courses & Certification?
-      content: Duis sed odio sit amet nibh vulputate cursus a sit tellus a odio tincdunt ilm auctor Class apten sociosqu a ds Etiam ante ex fermentum litora aorquper conuauris ine odi. Duis sed odio sit amet nibh vulputate cursus a sit tellus a odio tincdunt ilm auctor Class apten sociosqu a ds Et iam ante ex fermentum litora aorquper conuauris ine odi.
-
-    - heading: Figures and data representative of an organization's?
-      content: Duis sed odio sit amet nibh vulputate cursus a sit tellus a odio tincdunt ilm auctor Class apten sociosqu a ds Etiam ante ex fermentum litora aorquper conuauris ine odi. Duis sed odio sit amet nibh vulputate cursus a sit tellus a odio tincdunt ilm auctor Class apten sociosqu a ds Et iam ante ex fermentum litora aorquper conuauris ine odi.
+    - heading: Brand Elements & Assets
+      content: "<li>Custom icons, patterns, and illustrations</li> 
+                <li>Social media branding and marketing assets</li>
+                <li>Packaging and promotional material design </li>"
 
 additional:
   enabled: 1
@@ -44,8 +47,6 @@ additional:
   "
 ---
 
-### Behind the Branding of High Calgary’s Community
+### Brand Design
 
-Our knowledgeable cost management experts understand the importance of delivering a project to meet your expectations in terms of cost, time, and quality. We will work with you to find the right, flexible and valuable solutions. No matter what sector you operate in, or the **scale of your project**, our team have the experience and know-how to support you with your goals.
-
-In addition to construction consultancy services **Bureau Veritas is a global leader in testing**, inspection and certification (TIC) and we have more than 190+ years of experience meaning that we also can assist you in other areas of your business if needed.   
+We craft distinctive brand identities that leave a lasting impression. From logo creation to full brand guidelines, we ensure consistency and uniqueness across all touchpoints.  
