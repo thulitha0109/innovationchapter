@@ -2,19 +2,19 @@
     "bg_image": "/images/testi-bg.jpg",
     "items": [
         {
-            "name": "Thomas Smith",
+            "name": "DH Kim - Ingine Inc Korea",
             "role": "Customer Support",
-            "text": "Their high level of customer service complemented their technical expertise. They were responsive, supportive, and communicative. Their dedication to the project was impressive."
+            "text": "Innovation Chapter’s involvement through Ingine Lanka in exploring the wave energy potential and project initiation in Sri Lanka has been instrumental in Ingine’s footstep in Ocean Renewables in the South Asian Region "
         },
         {
-            "name": "Mike Cameron",
+            "name": "Gaurav - CEO of Digitalmarket",
             "role": "Code Quality",
-            "text": "Their high level of customer service complemented their technical expertise. They were responsive, supportive, and communicative. Their dedication to the project was impressive."
+            "text": "I've never met a web developer who truly cares about their clients' success like TT does."
         },
         {
-            "name": "Jessica Brown",
-            "role": "Design Quality",
-            "text": "Their high level of customer service complemented their technical expertise. They were responsive, supportive, and communicative. Their dedication to the project was impressive."
+            "name": "Sri Laan - Germany",
+            "role": "Shopify",
+            "text": "Not only did he develop a stunning website for our brand, but he also organized and executed a professional photoshoot for our products. Given our hectic schedules, Lakshitha’s comprehensive service was invaluable. We highly recommend him for anyone seeking a seamless, all-in-one solution for their Shopify e-commerce platform."
         }
     ]
 }

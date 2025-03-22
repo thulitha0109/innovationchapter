@@ -6,24 +6,21 @@
         "portfolio": {
             "categories": [
                 {
+                    "label": "Shopify Web-Apps",
+                    "slug": "shopify"
+                },
+                {
                     "label": "Custom Solutions",
-                    "slug": "custome-solutions"
+                    "slug": "custom-solutions"
                 },
                 {
                     "label": "Design",
                     "slug": "design"
                 },
+
                 {
-                    "label": "Marketing",
-                    "slug": "marketing"
-                },
-                {
-                    "label": "Shopify",
-                    "slug": "shopify"
-                },
-                {
-                    "label": "UI UX",
-                    "slug": "ux-ui"
+                    "label": "UI-UX",
+                    "slug": "userix"
                 }
             ]
         }
@@ -77,7 +74,7 @@
     },
     "footer": {
         "logo": {
-            "image": "/images/logo-black.png",
+            "image": "/images/IC_BlackLogo.png",
             "alt": "logo"
         },
         "gallery": [
@@ -112,7 +109,7 @@
                 "alt": "image"
             }
         ],
-        "copy": "© 2023 ONOVO by <a href='https://bslthemes.com' target='blank' class='onovo-lnk lnk--white'>bslthemes Team</a>. All rights reserved."
+        "copy": "© 2025 Innovation chapter by <a href='https;//ilutechnologies.com' target='blank' class='onovo-lnk lnk--white'>ilutechnologies</a>. All rights reserved."
     },
     "social": [
         {

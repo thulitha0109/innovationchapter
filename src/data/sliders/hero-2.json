@@ -2,8 +2,8 @@
     "items": [
         {
             "image": {
-                "desktop": "/images/Slider_01.jpg",
-                "mobile": "/images/Slider_01.jpg"
+                "desktop": "/images/sliderclickstoconversion.webp",
+                "mobile": "/images/sliderclickstoconversion.webp"
             },
             "title": "Turing Clicks<br />Into Conversions",
             "text": "We blend design, strategy, and technology to turn visitors into loyal customers.",
@@ -15,8 +15,8 @@
 
         {
             "image": {
-                "desktop": "/images/Slider_02.jpg",
-                "mobile": "/images/Slider_02.jpg"
+                "desktop": "/images/slidergloballegacy.webp",
+                "mobile": "/images/slidergloballegacy.webp"
             },
             "title": "Build a Global<br /> Legacy",
             "text": "Connect, inspire, and thrive in markets across the world.",

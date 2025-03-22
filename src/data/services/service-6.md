@@ -21,7 +21,7 @@ accordion:
                 <li>Optimized photos for fast-loading, high-quality visuals </li>"
 
 additional:
-  enabled: 1
+  enabled: 0
   content: "
     <h3>Highest Expectations</h3>
 		<p>We successfully cope with tasks of varying complexity, provide longterm guarantees and regularly master new technologies. Our portfolio includes <span style='text-decoration: underline;'>dozens of successfully</span> completed projects of houses of different stores, with high–quality finishes and good repairs.</p>
