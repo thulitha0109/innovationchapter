@@ -2,7 +2,7 @@
 #preview details
 image: "/images/post6.jpg"
 icon: "/images/serv-icon6.png"
-title: "Brand Strategy"
+title: "Shopify"
 short: "Lorem ipm dolor amet, consectetur adipiing lit Sunt sed ad possimus ils magnam maores."
 
 #full details

@@ -1,13 +1,18 @@
 import Data from "@data/sections/services-2.json";
 import Link from "next/link";
 
-const Services2Section = ( { introHidden, noPaddingBottom } ) => {
+const Services2Section = ( { noPaddingBottom } ) => {
   return (
     <>
         {/* Onovo Services */}
         <section className={noPaddingBottom ? "onovo-section gap-top-140" : "onovo-section gap-top-140 gap-bottom-140"}>
             <div className="container">
-
+           {/* Heading */}
+                        <div className="onovo-heading gap-bottom-40 align-center">
+                            <h2 className="onovo-title-2">
+                                <span dangerouslySetInnerHTML={{__html: Data.title}} />
+                            </h2>
+                        </div>
                 {/* Services items */}
                 <div className="row gap-row">
                     {Data.items.map((item, key) => (

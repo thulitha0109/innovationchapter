@@ -866,6 +866,10 @@ hr {
 	border-top: 1px solid #8d99a7;
 }
 
+.mute {
+	bottom: 6em;
+}
+
 .onovo-contact-info {
 	position: relative;
 	background: #000;
@@ -4694,16 +4698,16 @@ ul.onovo-footer-menu li {
 	display: none;
 }
 
-.onovo-portfolio-item:hover .onovo-hover-3::before {
-	transform: scale(1);
-	-webkit-transform: scale(1);
-}
+// .onovo-portfolio-item:hover .onovo-hover-3::before {
+// 	transform: scale(1);
+// 	-webkit-transform: scale(1);
+// }
 
-.onovo-portfolio-item:hover .onovo-lnk::after {
-	transform: scaleX(1);
-	-webkit-transform: scaleX(1);
-	transform-origin: bottom left;
-}
+// .onovo-portfolio-item:hover .onovo-lnk::after {
+// 	transform: scaleX(1);
+// 	-webkit-transform: scaleX(1);
+// 	transform-origin: bottom left;
+// }
 
 .onovo-portfolio-item-list {
 	position: relative;
@@ -6289,7 +6293,7 @@ body .onovo-subscribe-form .submit-container {
 
 .onovo-history-item .subtitle {
 	margin: 20px 0;
-	font-size: 90px;
+	font-size: 66px;
 	font-weight: 700;
 	line-height: 1;
 	text-shadow: 3px 3px 0 #000, -3px 3px 0 #000, 3px -3px 0 #000, -3px -3px 0 #000;

@@ -21,7 +21,7 @@ details:
           value: Mar 18, 2023
         
         - label: "Website:"
-          value: bslthemes.com
+          value: https://ceciliyantea.com/
 
 gallery: 
     items:
@@ -63,9 +63,23 @@ additional:
 
 ### Description
 
-Most innovative and successful builders and real estate enterprises in the country, has been selected for the design-build expansion of Air sides A and E at Tampa International Airport. This expansion will support Hillsborough County Aviation Authority and Tampa International Airport as they project up to 38.8 million annual passengers, 402,000 tons of cargo per year and 344,000 annual aircraft operations.
-
-Global demand for a Circular Economy solution is already high, with global concrete manufacturers engaging with us to **develop specific testing programms**.
+Ceciliyan is a renowned brand known for its premium, high-quality tea, celebrated for
+its rich flavors and commitment to sustainability. As a leading name in the tea industry,
+in addition to tea, Ceciliyan produces organic Coconut, Rubber, and Ceylon Cinnamon.
+These distinctive reflect the brand’s dedication to providing an exceptional tea
+experience, combining traditional ingredients with innovative flavors. To further
+enhance their presence, Ceciliyan approached us to elevate their digital footprint and
+expand their market influence. Their objective was to enhance brand visibility, engage
+a global community of tea aficionados, and drive measurable sales growth through an
+advanced, results-oriented digital strategy. Operating within a competitive market
+landscape, Ceciliyan required a highly differentiated and impactful online presence.
+Through close collaboration and a deep understanding of their brand ethos, we crafted
+a tailored approach that aligned with their strategic goals. Our multifaceted digital
+marketing efforts, including targeted content creation, precision-driven advertising
+campaigns, and advanced social media optimization, substantially enhanced their
+online visibility, broadened their international audience, and significantly boosted
+conversions. This strategic initiative not only solidified Ceciliyan’s position as a market
+leader but also fostered long-term brand growth and consumer loyalty.
 
 ###### Project Requirement
 

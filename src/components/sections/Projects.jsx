@@ -133,7 +133,7 @@ const ProjectsSection = ( { projects } ) => {
 									<div key={`projects-item-${key}`} className={`col-xs-12 col-sm-12 col-md-6 col-lg-6 onovo-portfolio-col ${item.category_slug}`}>
 										<div className="onovo-portfolio-item">
 											<div className="image" data-onovo-overlay data-onovo-scroll>
-												<a href={`/projects/${item.id}`} className="onovo-hover-3">
+												<a href={`/projects/${item.id}`} >
 													<img src={item.image} alt={item.title} />
 												</a>
 											</div>

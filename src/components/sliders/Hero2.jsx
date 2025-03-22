@@ -35,19 +35,22 @@ const Hero2Slider = () => {
                             }
                             {item.video != undefined &&
                             <div className="image video">
-                                <video autoPlay muted loop playsInline>
+                                <video autoPlay muted={!mute} loop playsInline>
                                     <source src={item.video} type="video/mp4" />
                                 </video>
                                 <div className="ovrl" style={{"opacity": "0.95"}} />
-                                <a href="#" className={mute ? "onovo-play-btn active" : "onovo-play-btn"} onClick={(e) => clickedMuteHeroVideo(e) }>
-                                    <span className="play-circles" />
-                                    <span className="play-lines">
-                                        <span />
-                                        <span />
-                                        <span />
-                                        <span />
-                                    </span>
-                                </a>
+                                <div className="container mute">
+                                    <a href="#" className={mute ? "onovo-play-btn active" : "onovo-play-btn"} onClick={(e) => clickedMuteHeroVideo(e) }>
+                                        <span className="play-circles" />
+                                        <span className="play-lines">
+                                            <span />
+                                            <span />
+                                            <span />
+                                            <span />
+                                        </span>
+                                    </a>
+                                </div>
+              
                             </div>
                             }
                             <div className="container">
@@ -77,6 +80,7 @@ const Hero2Slider = () => {
 
                 {/* navs */}
                 <div className="onovo-navs js-hero-slider-navs">
+
                     <div className="onovo-prev js-hero-slider-prev nav--white onovo-hover-2">
                         <i />
                     </div>

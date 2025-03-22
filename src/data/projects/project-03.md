@@ -21,7 +21,7 @@ details:
           value: Mar 18, 2023
         
         - label: "Website:"
-          value: bslthemes.com
+          value: https://mountspring.lk/
 
 gallery: 
     items:
@@ -61,6 +61,17 @@ additional:
     "
 ---
 
-Most innovative and successful builders and real estate enterprises in the country, has been selected for the design-build expansion of Airsides A and E at Tampa International Airport. This expansion will support Hillsborough County Aviation Authority and Tampa International Airport as they project up to 38.8 million annual passengers, 402,000 tons of cargo per year and 344,000 annual aircraft operations.
+Mount Spring, a distinguished bottled water brand, entrusted us with redefining their
+digital footprint and strengthening their market positioning. They aimed to drive sales
+through a comprehensive digital strategy by increasing brand awareness and engaging
+with more customers.
 
-I learned that this waste product could be stabilised, reducing the potential for leachable heavy metals by 96%. Research has shown that the **Construction patent pending process demonstrates** that after metal extraction and recycling, any residual chemicals can be securely contained when utilised in hydraulically bound concrete products.
+Facing intense competition, they required a distinct and
+compelling online presence to stand out. Through continuous communication with the
+client, we closely aligned our efforts with their specific requirements. Leveraging our
+expertise, we designed and developed a sophisticated, user-centric website that
+seamlessly embodies their brand identity and core values. Our strategic digital
+marketing approach integrating high-impact content creation, precision-targeted
+advertising, and advanced social media optimization effectively enhanced their online
+visibility, expanded audience reach, and fostered meaningful consumer engagement,
+positioning Mount Spring as an industry leader.

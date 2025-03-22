@@ -21,7 +21,7 @@ details:
           value: Mar 18, 2023
         
         - label: "Website:"
-          value: bslthemes.com
+          value: 
 
 gallery: 
     items:
@@ -61,6 +61,18 @@ additional:
     "
 ---
 
-Most innovative and successful builders and real estate enterprises in the country, has been selected for the design-build expansion of Airsides A and E at Tampa International Airport. This expansion will support Hillsborough County Aviation Authority and Tampa International Airport as they project up to 38.8 million annual passengers, 402,000 tons of cargo per year and 344,000 annual aircraft operations.
+### Description
 
-I learned that this waste product could be stabilised, reducing the potential for leachable heavy metals by 96%. Research has shown that the **Construction patent pending process demonstrates** that after metal extraction and recycling, any residual chemicals can be securely contained when utilised in hydraulically bound concrete products.
+
+DSI Plastic, a renowned leader in the production of premium plastic products,
+entrusted us with the task of elevating their digital presence and amplifying their
+market impact. With a clear objective to enhance brand recognition, engage a broader,
+more diverse audience, and drive substantial sales growth, they sought an integrated,
+high-performance digital strategy. Operating in a saturated and highly competitive
+market, DSI Plastic required a distinctive and compelling online presence to
+differentiate themselves. Through continuous and strategic collaboration with the
+client, we meticulously tailored our approach to align with their business objectives
+and market positioning. Our multifaceted digital marketing strategy comprising
+sophisticated content creation, highly targeted advertising campaigns, and advanced
+social media optimization effectively enhanced their online visibility, extended their market reach, and drove increased conversions, solidifying DSI Plastic’s standing as
+an industry leader and fostering sustainable growth.
