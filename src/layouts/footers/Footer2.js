@@ -86,7 +86,7 @@ const Footer2 = () => {
 								<p>
 									<a className="onovo-lnk" href="tel:+4402074302973" target="blank">+44 (0) 20 7430 2973</a>
 									<br />
-									<a className="onovo-lnk" href="mailto:username@domain.com" target="blank">username@domain.com</a>
+									<a className="onovo-lnk" href="mailto:info@innovationchapter.com" target="blank">info@innovationchapter.com</a>
 								</p>
 							</div>
 

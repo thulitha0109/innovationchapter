@@ -1,9 +1,9 @@
 {
     "items": [
         {
-            "value": "23",
+            "value": "10",
             "label": "Team members",
-            "after": ""
+            "after": "+"
         },
         {
             "value": "99",
@@ -11,9 +11,9 @@
             "after": "+"
         },
         {
-            "value": "12",
-            "label": "Lines of code",
-            "after": "M"
+            "value": "10",
+            "label": "Countries",
+            "after": "+"
         }
     ]
 }

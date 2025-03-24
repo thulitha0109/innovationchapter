@@ -1,5 +1,30 @@
 {
-    "subtitle": "What we do",
-    "title": "We’re a full-service agency",
-    "numOfItems": 5
+    "subtitle": "Change and Transform",
+    "title": "The Reasons for Choosing Us Innovate",
+
+    "items": [
+        {
+            "icon": "/images/serv-icon4-1.png",
+            "title": "Excellence Across Industries",
+            "short": "We engage in many diverse business sectors including manufacturing, services and technology where we have accumulated a wealth of practical know-how and intellect to think innovatively in order to maximize value propositions to final consumers of products and services."
+        },
+        {
+            "icon": "/images/serv-icon4-1.png",
+            "title": "Value Proposition Creation",
+            "short": "Contemporary business is about creating value to the client. The future of business is all about maximizing the value proposition offered by business enterprises to their clients to outweigh the cost of acquisition of the product or service."
+
+        },
+        {
+            "icon": "/images/serv-icon4-1.png",
+            "title": "Universal Innovation Process",
+            "short": "Innovation could be defined as any incremental value addition, Even minor tweaks in the business model, which would create substantial commercial value. Thus our unique model addresses all key areas of a business enterprise to optimize the existing process and alter procedures in order to create innovative value propositions which are commercially viable."
+  
+        },
+        {
+            "icon": "/images/serv-icon4-1.png",
+            "title": "Business Transformation",
+            "short": "Application of our unique innovation consultancy framework render businesses with a unique opportunity of reinventing existing business processes paving way for business transformation."
+        }
+
+    ]
 }

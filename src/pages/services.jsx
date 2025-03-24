@@ -22,7 +22,7 @@ const Services = (props) => {
 
       <CountersSection />
 
-      <VideoSection />
+      {/* <VideoSection /> */}
 
       {/* Onovo Services */}
 	  <section className="onovo-section gap-top-140 gap-bottom-140">

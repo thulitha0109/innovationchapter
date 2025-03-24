@@ -21,22 +21,18 @@ const Services4Section = ({ services }) => {
 
 				{/* Services items */}
 				<div className="onovo-services-list">
+					{Data.items.map((item, key) => (
 
-                    {services.slice(0, Data.numOfItems).map((item, key) => (
 					<div key={`services4-item-${key}`} className="onovo-service-item-list">
 						<div className="onovo-service-item-list-inner">
 							<div className="image onovo-hover-1">
-								<a href={`/services/${item.id}`}>
 									<img src={item.icon} alt={item.title} />
-								</a>
 							</div>
 							<div className="num">
 								<span> 0{key+1}. </span>
 							</div>
 							<h5 className="title">
-								<a href={`/services/${item.id}`}>
 									<span>{item.title}</span>
-								</a>
 							</h5>
 							<div className="onovo-text">
 								<div>

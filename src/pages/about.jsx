@@ -39,23 +39,26 @@ const About = (props) => {
 	  	<section className="onovo-section gap-top-140 gap-bottom-140">
 			<div className="container">
 				<div className="row">
-					<div className="col-xs-12 col-sm-12 col-md-12 col-lg-8">
+					<div className="col-xs-12 col-sm-12 col-md-12 col-lg-9">
 
 						{/* Heading */}
 						<div className="onovo-heading gap-bottom-60">
 							<div className="onovo-subtitle-1">
-								<span> Welcome to Onovo </span>
+								<span> Welcome to Innovation Chapter </span>
 							</div>
 							<h2 className="onovo-title-2">
-								<span> We are a digital agency, <br/>passionate about building <br/>and designing brands </span>
+								<span> Sky is the limit for Innovation <br/>We live the language of innovation </span>
 							</h2>
 							<div className="onovo-text">
-								<p>From the moment our company was founded, we have helped our clients find <strong>exceptional solutions for their businesses</strong>, creating memorable brands and digital products. Our expertise grows with each year, and our accumulated experience. </p>
+								<p>Generic Management Consultancy is an obsolete concept.  Businesses and corporations are on the lookout for innovative ways of exploring business opportunities and creating and leveraging existing business processes to the next level. We as innovators come from diverse backgrounds and also as individuals who own various businesses ourselves!!</p>
+								<p>
+									Mr. Harendra Hewakuruppu (Founder)
+								</p>
 							</div>
 						</div>
 
 					</div>
-					<div className="col-xs-12 col-sm-12 col-md-12 col-lg-3 offset-lg-1 hide-on-mobile">
+					<div className="col-xs-12 col-sm-12 col-md-12 col-lg-2 offset-lg-1 hide-on-mobile">
 
 						{/* Image */}
 						<img src="/images/onovo-about-logo.png" alt="" />
@@ -69,8 +72,8 @@ const About = (props) => {
 					{/*number-item*/}
 					<div className="col-xs-12 col-sm-12 col-md-4 col-lg-4">
 						<div className="onovo-counter">
-							<div className="num onovo-text-white js-counter" data-end-value="23">
-								<CountUp end="23" duration={7} enableScrollSpy={true} scrollSpyOnce={true} />
+							<div className="num onovo-text-white js-counter" data-end-value="10">
+								<CountUp end="10" duration={7} enableScrollSpy={true} scrollSpyOnce={true} />
 							</div>
 							<div className="num-after onovo-text-white"> + </div>
 							<div className="label"> Team members </div>
@@ -91,24 +94,14 @@ const About = (props) => {
 					{/*number-item*/}
 					<div className="col-xs-12 col-sm-12 col-md-4 col-lg-4">
 						<div className="onovo-counter">
-							<div className="num onovo-text-white js-counter" data-end-value="12">
-								<CountUp end="12" duration={7} enableScrollSpy={true} scrollSpyOnce={true} />
+							<div className="num onovo-text-white js-counter" data-end-value="10">
+								<CountUp end="10" duration={7} enableScrollSpy={true} scrollSpyOnce={true} />
 							</div>
-							<div className="num-after onovo-text-white"> M </div>
-							<div className="label"> Lines of code </div>
+							<div className="num-after onovo-text-white"> + </div>
+							<div className="label"> Countries </div>
 						</div>
 					</div>
 
-				</div>
-
-				{/* Video */}
-				<div className="onovo-video" data-onovo-overlay data-onovo-scroll>
-					<div className="image" onClick={ (e) => clickedVideoButton(e) } style={{"backgroundImage": "url(/images/hero-digital-1.jpg)"}} />
-					<iframe className="js-video-iframe" data-src="https://www.youtube.com/embed/Gu6z6kIukgg?showinfo=0&rel=0&autoplay=1"></iframe>
-					<div className="play onovo-circle-text" onClick={ (e) => clickedVideoButton(e) }>
-						<div className="arrow" />
-						<div className="label onovo-text-black onovo-circle-text-label"> Play Video - Play Video - Play Video - </div>
-					</div>
 				</div>
 
 				{/* Description */}
@@ -150,11 +143,11 @@ const About = (props) => {
 
 		<Services4Section services={props.services} />
 
-		<AwardsSection />
+		{/* <AwardsSection /> */}
 
       	<HistorySlider />
 
-      	<Team2Section team={props.team} />
+      	{/* <Team2Section team={props.team} /> */}
 
       	<Testimonial2Slider />
 

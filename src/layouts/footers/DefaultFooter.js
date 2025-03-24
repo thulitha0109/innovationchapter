@@ -34,7 +34,7 @@ const DefaultFooter = () => {
                                 <p style={{"opacity": "0.6"}}>Baird House, 15-17 St Cross St <br />London EC1N 8UW </p>
                                 <p style={{"opacity": "0.6"}}>
                                     <a href="tel:+10204302973" className="onovo-lnk lnk--white" target="_blank">+ 1 (020) 430 2973</a><br />
-                                    <a href="mailto:username@domain.com" className="onovo-lnk lnk--white" target="_blank">username@domain.com</a>
+                                    <a href="mailto:username@domain.com" className="onovo-lnk lnk--white" target="_blank">info@innovayionchapter.com</a>
                                 </p>
                             </div>
 
