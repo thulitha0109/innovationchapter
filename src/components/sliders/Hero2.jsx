@@ -1,18 +1,21 @@
 import { sliderProps } from "@common/sliderProps";
 import { Swiper, SwiperSlide } from "swiper/react";
-import { useState } from "react";
+import { useState, useRef } from "react";
 
 import Data from '@data/sliders/hero-2';
 import Link from "next/link";
 
-const Hero2Slider = () => {
+const Hero2Slider = ({ item }) => {
+    const [isMuted, setIsMuted] = useState(true);
+    const videoRef = useRef(null);
 
-        const [mute, setMute] = useState(false);
-    
-        const clickedMuteHeroVideo = (e) => {
-            e.preventDefault();
-            setMute(!mute);
-        };
+    const toggleMute = (e) => {
+        e.preventDefault();
+        if (videoRef.current) {
+            videoRef.current.muted = !videoRef.current.muted;
+            setIsMuted(videoRef.current.muted);
+        }
+    };
     
   return (
     <>
@@ -33,14 +36,22 @@ const Hero2Slider = () => {
                                 <div className="ovrl" style={{"opacity": "0.95"}} />
                             </div>
                             }
-                            {item.video != undefined &&
-                            <div className="image video">
-                                <video autoPlay muted={!mute} loop playsInline>
-                                    <source src={item.video} type="video/mp4" />
-                                </video>
-                                <div className="ovrl" style={{"opacity": "0.95"}} />
-                                <div className="container mute">
-                                    <a href="#" className={mute ? "onovo-play-btn active" : "onovo-play-btn"} onClick={(e) => clickedMuteHeroVideo(e) }>
+                            {item.video && (
+                                <div className="image video">
+                                    <video 
+                                        ref={videoRef} 
+                                        autoPlay 
+                                        muted={isMuted} 
+                                        loop 
+                                        playsInline
+                                    >
+                                        <source src={item.video} type="video/mp4" />
+                                    </video>
+                                    <a 
+                                        className={`onovo-play-btn ${!isMuted ? "active" : ""}`} 
+                                        onClick={toggleMute}
+                                        style={{ position: "absolute", bottom: "20%", right: "10px", zIndex: 10 }}
+                                    >
                                         <span className="play-circles" />
                                         <span className="play-lines">
                                             <span />
@@ -49,11 +60,10 @@ const Hero2Slider = () => {
                                             <span />
                                         </span>
                                     </a>
+                                    <div className="ovrl" style={{ opacity: 0.95, zIndex: 5 }} />
                                 </div>
-              
-                            </div>
-                            }
-                            <div className="container">
+                            )}
+                            <div className="container" style={{ position: "unset" }} >
                                 <div className="titles">
                                     <h1 className="title onovo-text-white">
                                         <span data-splitting dangerouslySetInnerHTML={{__html: item.title}} />

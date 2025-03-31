@@ -1,66 +1,59 @@
 ---
 #preview
-title: Ceciliyan
-image: /images/Ceciliyan/1200x900Main.jpg
-category: Design
-category_slug: design
-type: Marketing, Rendering, 3D Design, Branding, Logo Design
-team: Alexander Bravo
-date: 2021-2023
+title: Ckwai Clothing
+image: /images/Custom/ckwaiclothing/1200x900-ckwaiclothing-main.jpg
+category: Custom Solutions
+category_slug: custom-solutions
+type: Cloud solutions
+team: Ilutechnologies
+date: 2021-202
 
 #full details
 details:
     items:
         - label: "Client:"
-          value: Ceciliyan
+          value: Ckwai Clothing
 
         - label: "Start:"
           value: Dec 18, 2022
         
         - label: "Ending:"
-          value: Mar 18, 2023
+          value: Present
         
         - label: "Website:"
-          value: https://ceciliyantea.com/
+          value: Dealo.io
 
 gallery: 
     items:
-        - image: /images/Ceciliyan/1200x982_Ciciliyan_02.jpg
+        - image: /images/Custom/ckwaiclothing/1200x982-ckwaiclothing.jpg
           alt: "image"
 
-        - image: /images/Ceciliyan/1200x900Main.jpg
-          alt: "image"
-
-        - image: /images/Ceciliyan/1200x982_Ciciliyan.jpg
+        - image: /images/Custom/ckwaiclothing/1200x800-ckwaiclothing.jpg
           alt: "image"
         
-        - image: /images/Ceciliyan/1200x750_Ciciliyan.jpg
+        - image: /images/Custom/ckwaiclothing/1200x982-ckwaiclothing-02.jpg
           alt: "image"
 
-        - image: /images/Ceciliyan/1200x800_Ciciliyan.jpg
+        - image: /images/Custom/ckwaiclothing/1200x750-ckwaiclothing.jpg
           alt: "image"
         
-        - image: /images/Ceciliyan/1200x982_Ciciliyan_02.jpg
-          alt: "image"
-
 ---
 
-### Description
+## CKWAI CLOTHING – Modern Fashion with Exclusive Designs  
 
-Ceciliyan is a renowned brand known for its premium, high-quality tea, celebrated for
-its rich flavors and commitment to sustainability. As a leading name in the tea industry,
-in addition to tea, Ceciliyan produces organic Coconut, Rubber, and Ceylon Cinnamon.
-These distinctive reflect the brand’s dedication to providing an exceptional tea
-experience, combining traditional ingredients with innovative flavors. To further
-enhance their presence, Ceciliyan approached us to elevate their digital footprint and
-expand their market influence. Their objective was to enhance brand visibility, engage
-a global community of tea aficionados, and drive measurable sales growth through an
-advanced, results-oriented digital strategy. Operating within a competitive market
-landscape, Ceciliyan required a highly differentiated and impactful online presence.
-Through close collaboration and a deep understanding of their brand ethos, we crafted
-a tailored approach that aligned with their strategic goals. Our multifaceted digital
-marketing efforts, including targeted content creation, precision-driven advertising
-campaigns, and advanced social media optimization, substantially enhanced their
-online visibility, broadened their international audience, and significantly boosted
-conversions. This strategic initiative not only solidified Ceciliyan’s position as a market
-leader but also fostered long-term brand growth and consumer loyalty.
+**CKWAI CLOTHING** is a **modern fashion industry** specializing in **limited-edition event wear**. We create unique clothing designs tailored for special occasions, ensuring exclusivity and style.  
+
+#### ⎯ OUR VISION  
+### *"Live Large, Dress Larger"*  
+
+At **CKWAI CLOTHING**, we are dedicated to offering **new and unique dresses** for every occasion, from **office wear to weekend fashion**. Our mission is to provide **stylish, versatile, and high-quality** clothing that meets the needs of modern, dynamic individuals.  
+
+### ⎯ ALL-IN-ONE ERP SYSTEM  
+To enhance operational efficiency, we have developed a **comprehensive website with an integrated ERP system**, ensuring seamless management of:  
+- **Inventory & Stock Control** – Maintain optimal stock levels with real-time updates.  
+- **Order & Sales Management** – Streamlined order processing for better customer experience.  
+- **Customer Engagement & CRM** – Improved communication and personalized interactions.  
+- **Financial Tracking** – Secure and accurate financial reports for business growth.  
+
+With this **digital transformation**, **CKWAI CLOTHING** is now equipped to **scale efficiently** while maintaining its **exclusive and trendsetting** approach to fashion.  
+

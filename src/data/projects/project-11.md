@@ -1,7 +1,7 @@
 ---
 #preview
 title: Mount Spring
-image: /images/RoyalTouch/1200x982_RT_02.jpg
+image: /images/Mountspring/1200x900_ MS _MainIMG.jpg
 category: Design
 category_slug: design
 type: Marketing, Rendering, 3D Design, Branding, Logo Design
@@ -12,7 +12,7 @@ date: 2021-2023
 details:
     items:
         - label: "Client:"
-          value: John Smith
+          value: Mount Spring
 
         - label: "Start:"
           value: Dec 18, 2022
@@ -25,22 +25,16 @@ details:
 
 gallery: 
     items:
-        - image: /images/project-2-2-1200x982.jpg
+        - image: /images/Mountspring/1200x982_ MS _2.jpg
           alt: "image"
 
-        - image: /images/project-2-1200x988.jpg
+        - image: /images/Mountspring/1200x982_ MS.jpg
           alt: "image"
 
-        - image: /images/project-4.jpg
+        - image: /images/Mountspring/1200x800_ MS.jpg
           alt: "image"
         
-        - image: /images/project-3-1200x750.jpg
-          alt: "image"
-
-        - image: /images/project-1-1080x800.jpg
-          alt: "image"
-        
-        - image: /images/project-8-1080x800.jpg
+        - image: /images/Mountspring/1200x750_ MS.jpg
           alt: "image"
 ---
 

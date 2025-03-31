@@ -12,3 +12,8 @@ img.mfp-img {
     top: -110px;
     right: -24px;
 }
+
+.onovo-play-btn {
+    z-index: 9999;
+    bottom:  20%;
+}
