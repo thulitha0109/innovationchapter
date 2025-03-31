@@ -1,6 +1,6 @@
 ---
 #preview details
-image: "/images/Services/Custom_Solutions_-100.jpg"
+image: "/images/Services/customsolutions.webp"
 icon: "/images/serv-icon4.png"
 title: "Custom Solutions"
 short: "Providing comprehensive technical solutions tailored for businesses, especially solopreneurs and small enterprises."

@@ -1,7 +1,7 @@
 ---
 #preview details
 image: "/images/Services/ShopifyWeb-100.webp"
-icon: "/images/serv-icon4.png"
+icon: "/images/services/icons/shopifysolutionsicon.webp"
 title: "Shopify Solutions"
 short: "Lorem ipm dolor amet, consectetur adipiing lit Sunt sed ad possimus ils magnam maores."
 

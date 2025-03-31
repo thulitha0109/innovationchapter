@@ -1,7 +1,7 @@
 ---
 #preview details
-image: "/images/Services/UI_UX_-100.jpg"
-icon: "/images/serv-icon4.png"
+image: "/images/services/UIUX.webp"
+icon: "/images/services/icons/uiuxicon.webp"
 title: "UI - UX"
 short: "Lorem ipm dolor amet, consectetur adipiing lit Sunt sed ad possimus ils magnam maores."
 

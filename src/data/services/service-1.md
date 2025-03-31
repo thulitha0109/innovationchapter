@@ -1,7 +1,7 @@
 ---
 #preview details
 image: "/images/post6.jpg"
-icon: "/images/serv-icon6.png"
+icon: "/images/services/icons/branddesignicon.webp"
 title: "Brand Strategy"
 short: "Lorem ipm dolor amet, consectetur adipiing lit Sunt sed ad possimus ils magnam maores."
 

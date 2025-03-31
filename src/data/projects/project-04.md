@@ -2,7 +2,7 @@
 #preview
 title: Spa Ceylon
 image: /images/Shopify/Siyath/https-_siyath.co.nz_.psd.jpg
-category: Shopify
+category: Shopify Solutions
 category_slug: shopify
 type: Shopify
 team: Thomas Jackki

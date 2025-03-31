@@ -17,3 +17,32 @@ img.mfp-img {
     z-index: 9999;
     bottom:  20%;
 }
+
+.onovo-brands {
+    position: relative;
+    overflow: hidden;
+    margin-bottom: 25px;
+}
+
+.onovo-brands .brand-link {
+    display: block;
+    position: relative;
+}
+
+.onovo-brands .image {
+    display: block;
+    overflow: hidden;
+}
+
+.onovo-brands .image img {
+    width: 100%;
+    height: auto;
+    transition: all 0.5s ease;
+    /* Black and white by default */
+    filter: grayscale(100%);
+}
+
+.onovo-brands:hover .image img {
+    /* Show color on hover */
+    filter: grayscale(0%);
+}

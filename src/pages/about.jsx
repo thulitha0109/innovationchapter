@@ -125,7 +125,7 @@ const About = (props) => {
 				</div>
 
 				{/* Gallery */}
-				<div className="row gap-top-100">
+				{/* <div className="row gap-top-100">
 					<div className="col-xs-12 col-sm-12 col-md-6 col-lg-6">
 						<a href="/images/posts1.jpg" className="mfp-image">
 							<img src="/images/posts1-1024x683.jpg" alt="" />
@@ -136,7 +136,7 @@ const About = (props) => {
 							<img src="/images/posts2-1024x683.jpg" alt="" />
 						</a>
 					</div>
-				</div>
+				</div> */}
 
 			</div>
 		</section>

@@ -1,7 +1,7 @@
 ---
 #preview details
-image: "/images/posts4.jpg"
-icon: "/images/serv-icon4.png"
+image: "/images/services/BrandDesign.webp"
+icon: "/images/services/icons/branddesignicon.webp"
 title: "Brand Design"
 short: "Lorem ipm dolor amet, consectetur adipiing lit Sunt sed ad possimus ils magnam maores."
 

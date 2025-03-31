@@ -30,6 +30,31 @@
             ],
             "link": "/services"
         },
+
+        {
+            "icon": "/images/serv-icon6-1.png",
+            "title": "Digital Solutions",
+            "list": [
+                {
+                    "text": "Concepts",
+                    "link": "/services/service-9"
+                },
+                {
+                    "text": "Custom Solutions",
+                    "link": "/services/service-10"
+                },
+                {
+                    "text": "Digital Marketing",
+                    "link": "/services/service-11"
+                },
+                {
+                    "text": "Shopify Solutions",
+                    "link": "/services/service-12"
+                }
+            ],
+            "link": "/services/service-9"
+        },
+
         {
             "icon": "/images/serv-icon5-1.png",
             "title": "Brand Develpment",
@@ -52,30 +77,6 @@
                 }
             ],
             "link": "/services/service-5"
-        },
-        {
-            "icon": "/images/serv-icon6-1.png",
-            "title": "Digital Solutions",
-            "list": [
-                {
-                    "text": "Concepts",
-                    "link": "/services/service-9"
-                },
-                {
-                    "text": "Custom Solutions",
-                    "link": "/services/service-10"
-                },
-                {
-                    "text": "Digital Marketing",
-                    "link": "/services/service-11"
-                },
-                {
-                    "text": "Shopify Web-Apps",
-                    "link": "/services/service-12"
-                }
-            ],
-            "link": "/services/service-9"
         }
-
     ]
 }

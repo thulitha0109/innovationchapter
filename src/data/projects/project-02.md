@@ -2,7 +2,7 @@
 #preview
 title: ASP Industries Australia
 image: /images/Shopify/ASP/https-_aspsuspension.com.au.jpg
-category: Shopify Web-Apps
+category: Shopify Solutions
 category_slug: shopify
 type: Shopify
 team: Lina Watson

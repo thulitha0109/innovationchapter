@@ -1,7 +1,7 @@
 ---
 #preview details
 image: "/images/Services/Videography-100.jpg"
-icon: "/images/serv-icon4.png"
+icon: "/images/services/icons/videographyicon.webp"
 title: "Videography"
 short: "Lorem ipm dolor amet, consectetur adipiing lit Sunt sed ad possimus ils magnam maores."
 
