@@ -1,66 +1,56 @@
 ---
 #preview
-title: MPCS Passara
-image: /images/Custom/mpcspassara/1200x900-mpcspassara-main.jpg
-category: Custom Solutions
-category_slug: custom-solutions
-type: Cloud solutions
-team: Ilutechnologies
-date: 2024-present
+title: DSI Plastic
+image: /images/DSIPlastic/DSI_1200x900MainIMG.jpg
+category: Design
+category_slug: design
+type: Marketing, Rendering, 3D Design, Branding, Logo Design
+team: Alexander Bravo
+date: 2021-2023
 
 #full details
 details:
     items:
         - label: "Client:"
-          value: Multi Purpose Cooperative Societies
+          value: DSI Plastic
 
         - label: "Start:"
-          value: May 18, 2024
+          value: Dec 18, 2022
         
         - label: "Ending:"
-          value: Present
+          value: Mar 18, 2023
         
         - label: "Website:"
-          value: mpcspassara.com
+          value: 
 
 gallery: 
     items:
-        - image: /images/Custom/mpcspassara/1200x800-mpcspassara.jpg
+        - image: /images/DSIPlastic/1200x982_ DSI.jpg
           alt: "image"
 
-        - image: /images/Custom/mpcspassara/1200x982-mpcspassara-02.jpg
+        - image: /images/DSIPlastic/1200x982_ DSI _2.jpg
           alt: "image"
         
-        - image: /images/Custom/mpcspassara/1200x750-mpcspassara.jpg
+        - image: /images/DSIPlastic/1200x750_ DSI.jpg
           alt: "image"
 
-        - image: /images/Custom/mpcspassara/1200x982-mpcspassara.jpg
+        - image: /images/DSIPlastic/1200x800_ DSI.jpg
           alt: "image"
-        
+
 ---
 
-### Multi-Purpose Cooperative Societies (MPCS) – Digital Transformation
+### Description
 
-To enhance operational efficiency and centralize management, we developed a **custom web application** for **MPCS Passara**. This platform serves as a **single portal** to streamline their activities, ensuring seamless data management and improved communication.  
 
-### 1. Centralized Data Management  
-- Enables **efficient handling of events and blogs**, keeping members informed.  
-- Provides a structured system to **store, update, and retrieve important data** with ease.  
-
-### 2. Employee Management System  
-- Offers a **dedicated module for managing employees**, tracking roles, and monitoring activities.  
-- Simplifies **record-keeping, attendance, and internal coordination**.  
-
-### 3. Integrated Notification System  
-- Sends **real-time notifications** directly to users’ inboxes for updates, announcements, and alerts.  
-- Ensures that employees and members stay informed about key activities.  
-
-### 4. User-Friendly Interface  
-- Designed with a **simple and intuitive UI**, making it accessible to all users.  
-- Supports **secure login and role-based access** to protect sensitive information.  
-
-### 5. Digital Transformation for Future Growth  
-- Enhances operational efficiency, reducing **manual work and paperwork**.  
-- Provides a scalable solution that supports **future expansions and new features**.  
-
-With this web application, **MPCS Passara** has taken a significant step towards **modernizing its management system**, ensuring better communication, efficiency, and long-term sustainability.  
+DSI Plastic, a renowned leader in the production of premium plastic products,
+entrusted us with the task of elevating their digital presence and amplifying their
+market impact. With a clear objective to enhance brand recognition, engage a broader,
+more diverse audience, and drive substantial sales growth, they sought an integrated,
+high-performance digital strategy. Operating in a saturated and highly competitive
+market, DSI Plastic required a distinctive and compelling online presence to
+differentiate themselves. Through continuous and strategic collaboration with the
+client, we meticulously tailored our approach to align with their business objectives
+and market positioning. Our multifaceted digital marketing strategy comprising
+sophisticated content creation, highly targeted advertising campaigns, and advanced
+social media optimization effectively enhanced their online visibility, extended their market reach, and drove increased conversions, solidifying DSI Plastic’s standing as
+an industry leader and fostering sustainable growth.
