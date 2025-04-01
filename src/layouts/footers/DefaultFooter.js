@@ -39,22 +39,41 @@ const DefaultFooter = () => {
                             </div>
 
                         </div>
-                        <div className="col-xs-12 col-sm-12 col-md-12 col-lg-4">
 
-                            
-                            <div className="row">
-                                {appData.footer.gallery.map((item, key) => (
-                                <div key={`fgallery-item-${key}`} className="col-4 col-xs-6 col-sm-6 col-md-4 col-lg-4">
-                                    <figure className="gallery-item">
-                                        <a href={item.image} title={item.title}>
-                                            <img src={item.image} alt={item.alt} />
-                                        </a>
-                                    </figure>
-                                </div>
-                                ))}
-                            </div>
+						<div className="col-xs-12 col-sm-12 col-md-6 col-lg-3 offset-lg-1">
 
-                        </div>
+							{/* Description */}
+							<div className="onovo-text onovo-text-white">
+								<ul className="onovo-footer-menu">
+									<li>
+										<Link href="/">
+											<span className="onovo-lnk">Home</span>
+										</Link>
+									</li>
+									<li>
+										<Link href="/about">
+											<span className="onovo-lnk">About us</span>
+										</Link>
+									</li>
+									<li>
+										<Link href="/projects">
+											<span className="onovo-lnk">Projects</span>
+										</Link>
+									</li>
+									<li>
+										<Link href="/services">
+											<span className="onovo-lnk">Services</span>
+										</Link>
+									</li>
+									<li>
+										<Link href="/contact">
+											<span className="onovo-lnk">Contact us</span>
+										</Link>
+									</li>
+								</ul>
+							</div>
+
+						</div>
                     </div>
 
                     <div className="separator"></div>

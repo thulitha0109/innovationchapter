@@ -56,7 +56,7 @@ const Footer2 = () => {
 								<ul className="onovo-footer-menu">
 									<li>
 										<Link href="/">
-											<span className="onovo-lnk">Home &#038; logo</span>
+											<span className="onovo-lnk">Home</span>
 										</Link>
 									</li>
 									<li>
