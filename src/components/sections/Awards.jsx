@@ -9,10 +9,10 @@ const AwardsSection = () => {
 
 				{/* Heading */}
 				<div className="onovo-heading">
-					<h2 className="onovo-title-2 pt-4">
+					<h2 className="onovo-title-2 pt-6">
 						<span dangerouslySetInnerHTML={{__html: Data.title}} />
 					</h2>
-					<h5 className="onovo-subtitle-1">
+					<h5 className="onovo-subtitle-1 pt-4">
                         <span dangerouslySetInnerHTML={{__html : Data.subtitle}} />
 					</h5>
 				</div>
@@ -22,7 +22,7 @@ const AwardsSection = () => {
 
                     {Data.items.map((item, key) => (
 					<div key={`awards-item-${key}`} className="col-xs-12 col-sm-12 col-md-4 col-lg-4">
-						<div className="image">
+						<div className="awards image">
 							<img  className="awards-img" src={item.image} alt={item.alt} />
 							</div>
 						<p className="onovo-subtitle-1">{item.value}</p>

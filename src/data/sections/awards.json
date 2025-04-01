@@ -3,37 +3,37 @@
     "subtitle": "We cover a range of industries as diverse as these...",
     "items": [
         {
-            "image": "/images/internationalbranding.png",
+            "image": "/images/internationalbranding.webp",
             "alt": "award",
             "label": "Brand innovation in </br> international markets",
             "value": "International Branding "
         },
         {
-            "image": "/images/digitalmarketing.png",
+            "image": "/images/digitalmarketing.webp",
             "alt": "award",
             "label": "Digital innovation for </br> bottom line improvement",
             "value": "Digital Marketing"
         },
         {
-            "image": "/images/financialanalysis.png",
+            "image": "/images/financialanalysis.webp",
             "alt": "award",
             "label": "Cutting edge innovation for  </br>  new financial products",
             "value": "Financial Analysis and Fintech"
         },
         {
-            "image": "/images/renewable-energy.png",
+            "image": "/images/renewable-energy.webp",
             "alt": "award",
             "label": "Novel and innovative </br>  renewable energy products",
             "value": "Renewable Energy"
         },
         {
-            "image": "/images/human-capital.png",
+            "image": "/images/human-capital.webp",
             "alt": "award",
             "label": "Innovative value propositions</br>  for human capital",
             "value": "Human Capital Management"
         },
         {
-            "image": "/images/tea.png",
+            "image": "/images/tea.webp",
             "alt": "award",
             "label": "Innovation in vertically</br>  integrating tea business",
             "value": "Tea Manufacturing and Exports"

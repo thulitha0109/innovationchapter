@@ -1,23 +1,18 @@
 {
     "title": "Let's make your <br>brand brilliant",
     "subtitle": "Have ideas for your business?",
-    "text": "<p>Then let us know about it and we can see what we can do to help. Fill in this very quick enquiry.</p><p><a href=\"tel:+02078523587\">+ (020) 7852 3587</a></p>",
+    "text": "<p>Then let us know about it and we can see what we can do to help. Fill in this very quick enquiry.</p><p><a href=\"tel:+0712789983\">+ (071) 2789983</a></p>",
     "bg_image": "/images/bg_map.jpg",
     "social": [
         {
-            "link": "https://twitter.com/",
-            "icon": "fab fa-twitter",
-            "title": "Twitter"
+            "link": "https://web.facebook.com/innovationchapter",
+            "icon": "fab fa-facebook",
+            "title": "Facebook"
         },
         {
-            "link": "https://linkedin.com/",
+            "link": "https://www.linkedin.com/company/innovation-chapter",
             "icon": "fab fa-linkedin-in",
             "title": "LinkedIn"
-        },
-        {
-            "link": "https://facebook.com/",
-            "icon": "fab fa-behance",
-            "title": "Behance"
         }
     ]
 }

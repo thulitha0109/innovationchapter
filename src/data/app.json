@@ -113,17 +113,12 @@
     },
     "social": [
         {
-            "link": "https://facebook.com",
+            "link": "https://web.facebook.com/innovationchapter",
             "icon": "fab fa-facebook",
             "title": "Facebook"
         },
         {
-            "link": "https://twitter.com",
-            "icon": "fab fa-twitter",
-            "title": "Twitter"
-        },
-        {
-            "link": "https://linkedin.com",
+            "link": "https://www.linkedin.com/company/innovation-chapter/",
             "icon": "fab fa-linkedin",
             "title": "Linkedin"
         }

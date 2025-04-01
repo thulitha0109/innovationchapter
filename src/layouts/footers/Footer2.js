@@ -55,23 +55,28 @@ const Footer2 = () => {
 							<div className="onovo-text">
 								<ul className="onovo-footer-menu">
 									<li>
-										<Link href="/services/service-1">
-											<span className="onovo-lnk">Branding &#038; logo</span>
+										<Link href="/">
+											<span className="onovo-lnk">Home &#038; logo</span>
 										</Link>
 									</li>
 									<li>
-										<Link href="/services/service-2">
-											<span className="onovo-lnk">Web design</span>
+										<Link href="/about">
+											<span className="onovo-lnk">About us</span>
 										</Link>
 									</li>
 									<li>
-										<Link href="/services/service-3">
-											<span className="onovo-lnk">Development Services</span>
+										<Link href="/projects">
+											<span className="onovo-lnk">Projects</span>
 										</Link>
 									</li>
 									<li>
-										<Link href="/blog">
-											<span className="onovo-lnk">Publications</span>
+										<Link href="/services">
+											<span className="onovo-lnk">Services</span>
+										</Link>
+									</li>
+									<li>
+										<Link href="/contact">
+											<span className="onovo-lnk">Contact us</span>
 										</Link>
 									</li>
 								</ul>
@@ -82,9 +87,9 @@ const Footer2 = () => {
 
 							{/* Description */}
 							<div className="onovo-text">
-								Baird House, 15-17 St Cross St <br />London EC1N 8UW
+							The Grandsburg, 152 Kynsey Road, Colombo 7,  <br />Colombo, Sri Lanka
 								<p>
-									<a className="onovo-lnk" href="tel:+4402074302973" target="blank">+44 (0) 20 7430 2973</a>
+									<a className="onovo-lnk" href="tel:0712789983" target="blank">071 278 9983</a>
 									<br />
 									<a className="onovo-lnk" href="mailto:info@innovationchapter.com" target="blank">info@innovationchapter.com</a>
 								</p>

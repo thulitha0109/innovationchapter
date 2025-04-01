@@ -31,10 +31,10 @@ const DefaultFooter = () => {
                             {/* Description */}
                             <div className="onovo-text onovo-text-white">
                                 <h5>Get in Touch</h5>
-                                <p style={{"opacity": "0.6"}}>Baird House, 15-17 St Cross St <br />London EC1N 8UW </p>
+                                <p style={{"opacity": "0.6"}}>The Grandsburg, 152 Kynsey Road, Colombo 7,  <br />Colombo, Sri Lanka</p>
                                 <p style={{"opacity": "0.6"}}>
-                                    <a href="tel:+10204302973" className="onovo-lnk lnk--white" target="_blank">+ 1 (020) 430 2973</a><br />
-                                    <a href="mailto:username@domain.com" className="onovo-lnk lnk--white" target="_blank">info@innovayionchapter.com</a>
+                                    <a href="tel:0712789983" className="onovo-lnk lnk--white" target="_blank">071 278 9983</a><br />
+                                    <a href="mailto:info@innovayionchapter.com" className="onovo-lnk lnk--white" target="_blank">info@innovayionchapter.com</a>
                                 </p>
                             </div>
 
