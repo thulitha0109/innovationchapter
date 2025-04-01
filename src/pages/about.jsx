@@ -9,7 +9,6 @@ import CountUp from 'react-countup';
 import { circleText } from "@common/utilits";
 
 import PageBanner from "@components/PageBanner";
-import Team2Section from "@components/sections/Team2"
 import PartnersSection from "@components/sections/Partners"
 import Services4Section from "@components/sections/Services4"
 
@@ -60,7 +59,7 @@ const About = (props) => {
 					<div className="col-xs-12 col-sm-12 col-md-12 col-lg-2 offset-lg-1 hide-on-mobile">
 
 						{/* Image */}
-						<img src="/images/onovo-about-logo.png" alt="" />
+						{/* <img src="/images/onovo-about-logo.png" alt="" /> */}
 
 					</div>
 				</div>

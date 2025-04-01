@@ -4,7 +4,7 @@ const AwardsSection = () => {
     return (
       <>
         {/* Onovo Awards */}
-		<section className="onovo-section gap-bottom-140 mt-4">
+		<section className="awards-contaier onovo-section gap-bottom-140">
 			<div className="container">
 
 				{/* Heading */}

@@ -46,6 +46,10 @@ img.mfp-img {
     /* Show color on hover */
     filter: grayscale(0%);
 }
+.awards-contaier  {
+    margin-top: 5em;
+}
+
 .awards-img {
     width: 20%;
     margin: 1em 0;

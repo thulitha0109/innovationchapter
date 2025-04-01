@@ -181,8 +181,8 @@ const Contact = () => {
                             <ul>
                                 <li>
                                     <h5>Contact Info</h5>
-                                    <a href="tel:+10204302973" className="onovo-lnk lnk--white" target="_blank">+ 1 (020) 430 2973</a><br/>
-                                    <a href="mailto:username@domain.com" className="onovo-lnk lnk--white" target="_blank">username@domain.com</a>
+                                    <a href="tel:+94 71 278 9983" className="onovo-lnk lnk--white" target="_blank">+(94) 71 278 9983</a><br/>
+                                    <a href="mailto:info@innovationchapter.com" className="onovo-lnk lnk--white" target="_blank">info@innovationchapter.com</a>
                                     
                                     <div className="onovo-social-1 onovo-social-active" style={{"marginTop": "10px"}}>
                                         <ul>
@@ -197,13 +197,13 @@ const Contact = () => {
                                     </div>
                                 </li>
                                 <li>
-                                    <h5>Houston</h5>
-                                    <div>2001 N. Clybourn Avenue Suite 202, <br/>Block D, IL 60614</div>
+                                    <h5>The Grandsburg</h5>
+                                    <div>152 Kynsey Road, Colombo 7, <br/>Colombo, Sri Lanka.</div>
                                 </li>
-                                <li>
+                                {/* <li>
                                     <h5>Los Angeles</h5>
                                     <div>2001 N. Clybourn Avenue Suite 202</div>
-                                </li>
+                                </li> */}
                             </ul>
                         </div>
 

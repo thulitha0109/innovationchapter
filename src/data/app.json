@@ -75,6 +75,7 @@
     "footer": {
         "logo": {
             "image": "/images/IC_BlackLogo.png",
+            "image_white": "/images/LOGO_Whitecopy.png",
             "alt": "logo"
         },
         "gallery": [
@@ -109,7 +110,7 @@
                 "alt": "image"
             }
         ],
-        "copy": "© 2025 Innovation chapter. All rights reserved."
+        "copy": "© 2025 Innovation Chapter. All rights reserved."
     },
     "social": [
         {

@@ -34,7 +34,7 @@ const Footer2 = () => {
 						<div className="col-xs-12 col-sm-12 col-md-6 col-lg-2">
 
 							{/* Logo */}
-							<div className="onovo-f-logo gap-bottom-40" style={{"maxWidth": "70px"}}>
+							<div className="onovo-f-logo gap-bottom-40" style={{"maxWidth": "100px"}}>
 								<Link href="/">
 									<img src={appData.footer.logo.image} alt={appData.footer.logo.alt} />
 								</Link>
@@ -89,7 +89,7 @@ const Footer2 = () => {
 							<div className="onovo-text">
 							The Grandsburg, 152 Kynsey Road, Colombo 7,  <br />Colombo, Sri Lanka
 								<p>
-									<a className="onovo-lnk" href="tel:0712789983" target="blank">071 278 9983</a>
+									<a className="onovo-lnk" href="tel:+94712789983" target="blank">+94 71 278 9983</a>
 									<br />
 									<a className="onovo-lnk" href="mailto:info@innovationchapter.com" target="blank">info@innovationchapter.com</a>
 								</p>

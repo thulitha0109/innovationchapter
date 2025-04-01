@@ -12,10 +12,10 @@ date: 2021-2023
 details:
     items:
         - label: "Client:"
-          value: Royal Touch Ceylon Tea
+          value: Bodima.lk Sri Lanka
         
         - label: "Website:"
-          value: royaltouchceylontea.com
+          value: bodima.lk
 
 gallery: 
     items:

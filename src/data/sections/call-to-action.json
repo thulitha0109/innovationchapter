@@ -1,27 +1,16 @@
 {
     "title": "Send Us Your <br/><strong>Bright Ideas</strong>",
     "subtitle": "Get in Touch",
-    "text": "<a href=\"mailto:infoname@domain.com\" target=\"_blank\">infoname@domain.com</a><p>36 East 8th Street, New York, <br />NY 10003, United States.</p>",
-    "bg_image": "/images/cta-bg-1.jpg",
-    "bg_image2": "/images/cta-circle2.png",
+    "text": "<a href=\"mailto:info@innovationchapter.com\" target=\"_blank\">info@innovationchapter.com</a><p>The Grandsburg, 152 Kynsey Road, Colombo 7,<br />Colombo, Sri Lanka</p>",
+    "bg_image": "/images/contactnew.webp",
     "social": [
         {
-            "link": "https://facebook.com/",
+            "link": "https://web.facebook.com/innovationchapter",
             "icon": "fab fa-facebook-f",
             "title": "Facebook"
         },
         {
-            "link": "https://instagram.com/",
-            "icon": "fab fa-instagram",
-            "title": "Instagram"
-        },
-        {
-            "link": "https://twitter.com/",
-            "icon": "fab fa-twitter",
-            "title": "Twitter"
-        },
-        {
-            "link": "https://linkedin.com/",
+            "link": "https://www.linkedin.com/company/innovation-chapter/",
             "icon": "fab fa-linkedin-in",
             "title": "LinkedIn"
         }

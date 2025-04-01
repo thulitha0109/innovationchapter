@@ -25,6 +25,13 @@ const DefaultFooter = () => {
                                 <p style={{"opacity": "0.6"}}>From the moment our company was founded, we have helped our clients find exceptional solutions <strong>for their businesses</strong>. </p>
                             </div>
 
+        					{/* Logo */}
+							<div className="onovo-f-logo gap-bottom-40" style={{"maxWidth": "100px"}}>
+								<Link href="/">
+									<img src={appData.footer.logo.image_white} alt={appData.footer.logo.alt} />
+								</Link>
+							</div>
+
                         </div>
                         <div className="col-xs-12 col-sm-12 col-md-6 col-lg-4 offset-lg-1">
 
@@ -33,8 +40,8 @@ const DefaultFooter = () => {
                                 <h5>Get in Touch</h5>
                                 <p style={{"opacity": "0.6"}}>The Grandsburg, 152 Kynsey Road, Colombo 7,  <br />Colombo, Sri Lanka</p>
                                 <p style={{"opacity": "0.6"}}>
-                                    <a href="tel:0712789983" className="onovo-lnk lnk--white" target="_blank">071 278 9983</a><br />
-                                    <a href="mailto:info@innovayionchapter.com" className="onovo-lnk lnk--white" target="_blank">info@innovayionchapter.com</a>
+                                    <a href="tel:+94712789983" className="onovo-lnk lnk--white" target="_blank">+94 71 278 9983</a><br />
+                                    <a href="mailto:info@innovayionchapter.com" className="onovo-lnk lnk--white" target="_blank">info@innovationchapter.com</a>
                                 </p>
                             </div>
 
