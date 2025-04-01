@@ -1,7 +1,9 @@
 import { sliderProps } from "@common/sliderProps";
-import { Swiper, SwiperSlide } from "swiper/react";
+import { Swiper, SwiperSlide,  } from "swiper/react";
+import { Autoplay } from 'swiper/modules';
 import Link from "next/link";
 import Data from '@data/sliders/history';
+import 'swiper/css';
 
 const HistorySlider = () => {
   return (
@@ -40,7 +42,13 @@ const HistorySlider = () => {
                 <div className="onovo-history-slider">
                     <Swiper
                         {...sliderProps.historySlider}
-                        className="swiper-container js-history-slider"
+                          modules={[Autoplay]}
+                          autoplay={{
+                            delay: 3000, // 3 seconds between slides
+                            stopOnLastSlide: false
+                          }}
+                          slidesPerView={1} // Make sure this is set appropriately
+                          className="swiper-container js-history-slider"
                     >
                         <div className="swiper-wrapper">
                             

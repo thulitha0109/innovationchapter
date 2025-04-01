@@ -1,6 +1,6 @@
 ---
 #preview
-title: Spa Ceylon
+title: Siyath (Spa Ceylon New Zealand)
 image: /images/Shopify/Siyath/https-_siyath.co.nz_.psd.jpg
 category: Shopify Solutions
 category_slug: shopify
@@ -14,12 +14,6 @@ details:
         - label: "Client:"
           value: Siyath New Zealand
 
-        - label: "Start:"
-          value: Dec 18, 2022
-        
-        - label: "Ending:"
-          value: Mar 18, 2023
-        
         - label: "Website:"
           value: bhttps://siyath.co.nz
 
@@ -38,4 +32,4 @@ gallery:
           alt: "image"
 ---
 
-Main Description: Siyath New Zealand based in Auckland, New Zealand and formed to introduce wide range of natural products in New Zealand which are purely originated from Sri Lanka “the pearl of Indian Ocean”. Siyath is the Spa Ceylon's authorised distributor in New Zealand.
+Siyath New Zealand based in Auckland, New Zealand and formed to introduce wide range of natural products in New Zealand which are purely originated from Sri Lanka “the pearl of Indian Ocean”. Siyath is the Spa Ceylon's authorised distributor in New Zealand.

@@ -11,7 +11,6 @@ import { circleText } from "@common/utilits";
 import PageBanner from "@components/PageBanner";
 import Team2Section from "@components/sections/Team2"
 import PartnersSection from "@components/sections/Partners"
-import AwardsSection from "@components/sections/Awards"
 import Services4Section from "@components/sections/Services4"
 
 const HistorySlider = dynamic( () => import("@components/sliders/History"), { ssr: false } );

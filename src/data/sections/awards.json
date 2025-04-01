@@ -1,23 +1,42 @@
 {
-    "subtitle": "Awards",
+    "title": "The Innovation Consulting Edge",
+    "subtitle": "We cover a range of industries as diverse as these...",
     "items": [
         {
-            "image": "/images/award1.png",
+            "image": "/images/internationalbranding.png",
             "alt": "award",
-            "label": "7 SOTD <br/> 17 HONORABLE MENTION <br/> 3 MOBILE EXCELLENCE",
-            "value": "31"
+            "label": "Brand innovation in </br> international markets",
+            "value": "International Branding "
         },
         {
-            "image": "/images/award2.png",
+            "image": "/images/digitalmarketing.png",
             "alt": "award",
-            "label": "11 SOTD <br/> 5 SPECIAL KUDOS",
-            "value": "16"
+            "label": "Digital innovation for </br> bottom line improvement",
+            "value": "Digital Marketing"
         },
         {
-            "image": "/images/award3.png",
+            "image": "/images/financialanalysis.png",
             "alt": "award",
-            "label": "AWARD 2019 <br/> 1 GLOBAL COMPETITION",
-            "value": "20"
+            "label": "Cutting edge innovation for  </br>  new financial products",
+            "value": "Financial Analysis and Fintech"
+        },
+        {
+            "image": "/images/renewable-energy.png",
+            "alt": "award",
+            "label": "Novel and innovative </br>  renewable energy products",
+            "value": "Renewable Energy"
+        },
+        {
+            "image": "/images/human-capital.png",
+            "alt": "award",
+            "label": "Innovative value propositions</br>  for human capital",
+            "value": "Human Capital Management"
+        },
+        {
+            "image": "/images/tea.png",
+            "alt": "award",
+            "label": "Innovation in vertically</br>  integrating tea business",
+            "value": "Tea Manufacturing and Exports"
         }
     ]
 }

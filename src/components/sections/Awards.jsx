@@ -4,11 +4,14 @@ const AwardsSection = () => {
     return (
       <>
         {/* Onovo Awards */}
-		<section className="onovo-section gap-bottom-140">
+		<section className="onovo-section gap-bottom-140 mt-4">
 			<div className="container">
 
 				{/* Heading */}
 				<div className="onovo-heading">
+					<h2 className="onovo-title-2 pt-4">
+						<span dangerouslySetInnerHTML={{__html: Data.title}} />
+					</h2>
 					<h5 className="onovo-subtitle-1">
                         <span dangerouslySetInnerHTML={{__html : Data.subtitle}} />
 					</h5>
@@ -19,8 +22,10 @@ const AwardsSection = () => {
 
                     {Data.items.map((item, key) => (
 					<div key={`awards-item-${key}`} className="col-xs-12 col-sm-12 col-md-4 col-lg-4">
-						<p><img src={item.image} alt={item.alt} /></p>
-						<h5 className="onovo-title-1">{item.value}</h5>
+						<div className="image">
+							<img  className="awards-img" src={item.image} alt={item.alt} />
+							</div>
+						<p className="onovo-subtitle-1">{item.value}</p>
 						<span dangerouslySetInnerHTML={{__html : item.label}} />
 					</div>
                     ))}

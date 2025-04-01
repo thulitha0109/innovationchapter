@@ -13,12 +13,6 @@ details:
     items:
         - label: "Client:"
           value: Brown & Company PLC
-
-        - label: "Start:"
-          value: Dec 18, 2022
-        
-        - label: "Ending:"
-          value: Mar 18, 2023
         
         - label: "Website:"
           value: https://brownsdeals.com

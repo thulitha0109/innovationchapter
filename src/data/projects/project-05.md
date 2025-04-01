@@ -1,7 +1,7 @@
 ---
 #preview
 title: Bodima.lk
-image: /images/UI-UX/1200x900_bodima.lk.jpg
+image: /images/UI-UX/bodimalknewmainimage.jpg
 category: UI-UX
 category_slug: userix
 type: UI/UX Design, Mobile Apps, Interactive Design
@@ -13,12 +13,6 @@ details:
     items:
         - label: "Client:"
           value: Royal Touch Ceylon Tea
-
-        - label: "Start:"
-          value: Dec 18, 2022
-        
-        - label: "Ending:"
-          value: Mar 18, 2023
         
         - label: "Website:"
           value: royaltouchceylontea.com

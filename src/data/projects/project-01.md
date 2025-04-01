@@ -13,12 +13,6 @@ details:
     items:
         - label: "Client:"
           value: Amore Clothing
-
-        - label: "Start:"
-          value: Dec 18, 2022
-        
-        - label: "Ending:"
-          value: Mar 18, 2023
         
         - label: "Website:"
           value: https://amoreclothing.lk

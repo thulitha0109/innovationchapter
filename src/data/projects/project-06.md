@@ -13,12 +13,6 @@ details:
     items:
         - label: "Client:"
           value: Dealo Group Private Limited
-
-        - label: "Start:"
-          value: Dec 18, 2022
-        
-        - label: "Ending:"
-          value: Present
         
         - label: "Website:"
           value: Dealo.io
