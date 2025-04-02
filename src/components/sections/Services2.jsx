@@ -16,7 +16,7 @@ const Services2Section = ( { noPaddingBottom } ) => {
                 {/* Services items */}
                 <div className="row gap-row">
                     {Data.items.map((item, key) => (
-                        <div key={`services2-item-${key}`} className="col-xs-12 col-sm-12 col-md-6 col-lg-4 align-center">
+                        <div key={`services2-item-${key}`} className="col-12 col-sm-6 col-md-3 col-lg-3 align-center">
                             <div className="onovo-service-item">
                                 <div className="image">
                                     <Link href={item.link}>

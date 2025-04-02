@@ -1,13 +1,13 @@
 ---
 #preview details
-image: "/images/posts4.jpg"
-icon: "/images/serv-icon4.png"
-title: "Concepts"
-short: "Lorem ipm dolor amet, consectetur adipiing lit Sunt sed ad possimus ils magnam maores."
+image: "/images/services/icons/DigitalInnovationStrategy.png"
+icon: "/images/services/DigitalInnovationStrategy.png"
+title: "Digital Innovation Strategy"
+short: "Bridges creativity and technology to future-proof your business. "
 
 #full details
 accordion:
-  enabled: 1
+  enabled: 0
   title: Solving Business Problems
   items:
     - heading: Secure Management and Workforce?
@@ -44,8 +44,6 @@ additional:
   "
 ---
 
-### Behind the Branding of High Calgary’s Community
+**Build experiences that transform and grow.**
 
-Our knowledgeable cost management experts understand the importance of delivering a project to meet your expectations in terms of cost, time, and quality. We will work with you to find the right, flexible and valuable solutions. No matter what sector you operate in, or the **scale of your project**, our team have the experience and know-how to support you with your goals.
-
-In addition to construction consultancy services **Bureau Veritas is a global leader in testing**, inspection and certification (TIC) and we have more than 190+ years of experience meaning that we also can assist you in other areas of your business if needed.   
+Our Digital Innovation Strategy service bridges creativity and technology to future-proof your business. We evaluate your current digital footprint and align it with emerging trends, customer behavior, and technology stacks. From customer journey mapping to platform selection and innovation roadmaps, we help you define how digital tools can accelerate business growth. The result? Purposeful solutions that deliver real impact, with user experience at the core.

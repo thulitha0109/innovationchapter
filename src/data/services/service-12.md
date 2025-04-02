@@ -3,7 +3,7 @@
 image: "/images/Services/ShopifyWeb-100.webp"
 icon: "/images/services/icons/shopifysolutionsicon.webp"
 title: "Shopify Solutions"
-short: "Lorem ipm dolor amet, consectetur adipiing lit Sunt sed ad possimus ils magnam maores."
+short: "Make your brand stand out and grow"
 
 #full details
 accordion:

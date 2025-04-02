@@ -8,23 +8,46 @@
     },
     "items": [
         {
+            "icon": "/images/serv-icon5-1.png",
+            "title": "Innovation Cunsulting",
+            "list": [
+                {
+                    "text": "⁠Innovation Roadmapping",
+                    "link": "/services/service-13"
+                },
+                {
+                    "text": "⁠Design Thinking Facilitation",
+                    "link": "/services/service-14"
+                },
+                {
+                    "text": "Startup Innovation Advisory",
+                    "link": "/services/service-15"
+                },
+                {
+                    "text": "Corporate Innovation Labs",
+                    "link": "/services/service-168"
+                }
+            ],
+            "link": "/services/service-13"
+        },
+        {
             "icon": "/images/serv-icon4-1.png",
             "title": "Brand Consulting",
             "list": [
                 {
-                    "text": "Brand Strategy",
+                    "text": "Strategic Brand Blueprint",
                     "link": "/services/service-1"
                 },
                 {
-                    "text": "Visual Identity",
+                    "text": "Visual Identity System",
                     "link": "/services/service-2"
                 },
                 {
-                    "text": "Naming",
+                    "text": "⁠Brand Voice & Naming Lab",
                     "link": "/services/service-3"
                 },
                 {
-                    "text": "Guidelines",
+                    "text": "⁠Brand Governance Kit",
                     "link": "/services/service-4"
                 }
             ],
@@ -36,7 +59,7 @@
             "title": "Digital Solutions",
             "list": [
                 {
-                    "text": "Concepts",
+                    "text": "Digital Innovation Strategy",
                     "link": "/services/service-9"
                 },
                 {

@@ -5,37 +5,37 @@
         {
             "image": "/images/internationalbranding.webp",
             "alt": "award",
-            "label": "Brand innovation in </br> international markets",
+            "label": "We help brands expand globally with culturally tailored strategies, multilingual assets, and localized marketing.",
             "value": "International Branding "
         },
         {
             "image": "/images/digitalmarketing.webp",
             "alt": "award",
-            "label": "Digital innovation for </br> bottom line improvement",
+            "label": "Our data-driven strategies optimize SEO, advertising, automation, and analytics to drive business growth.",
             "value": "Digital Marketing"
         },
         {
             "image": "/images/financialanalysis.webp",
             "alt": "award",
-            "label": "Cutting edge innovation for  </br>  new financial products",
+            "label": "We innovate financial services using AI, blockchain, and predictive analytics to enhance efficiency and security.",
             "value": "Financial Analysis and Fintech"
         },
         {
             "image": "/images/renewable-energy.webp",
             "alt": "award",
-            "label": "Novel and innovative </br>  renewable energy products",
+            "label": "We develop clean energy solutions with feasibility studies, system design, and digital management tools.",
             "value": "Renewable Energy"
         },
         {
             "image": "/images/human-capital.webp",
             "alt": "award",
-            "label": "Innovative value propositions</br>  for human capital",
+            "label": "We modernize HR with digital tools, analytics, and career development frameworks for a future-ready workforce.",
             "value": "Human Capital Management"
         },
         {
             "image": "/images/tea.webp",
             "alt": "award",
-            "label": "Innovation in vertically</br>  integrating tea business",
+            "label": "We optimize tea businesses with automation, supply chain improvements, and global branding strategie",
             "value": "Tea Manufacturing and Exports"
         }
     ]

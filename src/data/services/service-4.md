@@ -1,13 +1,13 @@
 ---
 #preview details
-image: "/images/post3.jpg"
-icon: "/images/serv-icon3.png"
-title: "Visual Identity"
-short: "Lorem ipm dolor amet, consectetur adipiing lit Sunt sed ad possimus ils magnam maores."
+image: "/images/services/BrandGovernanceKit.webp"
+icon: "/images/services/icons/BrandGovernanceKit.png"
+title: "⁠Brand Governance Kit"
+short: "Keep your brand consistent, everywhere."
 
 #full details
 accordion:
-  enabled: 1
+  enabled: 0
   title: Solving Business Problems
   items:
     - heading: Secure Management and Workforce?
@@ -23,29 +23,14 @@ accordion:
       content: Duis sed odio sit amet nibh vulputate cursus a sit tellus a odio tincdunt ilm auctor Class apten sociosqu a ds Etiam ante ex fermentum litora aorquper conuauris ine odi. Duis sed odio sit amet nibh vulputate cursus a sit tellus a odio tincdunt ilm auctor Class apten sociosqu a ds Et iam ante ex fermentum litora aorquper conuauris ine odi.
 
 additional:
-  enabled: 0
+  enabled: 1
   content: "
-    <h3>Highest Expectations</h3>
-		<p>We successfully cope with tasks of varying complexity, provide longterm guarantees and regularly master new technologies. Our portfolio includes <span style='text-decoration: underline;'>dozens of successfully</span> completed projects of houses of different stores, with high–quality finishes and good repairs.</p>
-		<ul>
-      <li>
-        Better defined projects, reducing risk.
-      </li>
-      <li>
-        We provide legislative compliance.
-      </li>
-      <li>
-        Cost savings by getting expert advice.
-      </li>
-      <li>
-        Realistic pricing and project timescales.
-      </li>
-		</ul>
+    <a class='onovo-btn onovo-hover-btn' href='/contact'><i class='arrow'><span></span></i><span> Get your brand guidelines</span></a>
   "
 ---
 
-### Behind the Branding of High Calgary’s Community
+**Keep your brand consistent, everywhere.**
 
-Our knowledgeable cost management experts understand the importance of delivering a project to meet your expectations in terms of cost, time, and quality. We will work with you to find the right, flexible and valuable solutions. No matter what sector you operate in, or the **scale of your project**, our team have the experience and know-how to support you with your goals.
+As your brand grows, consistency becomes everything. Our Brand Governance Kit gives you the tools to manage your identity with confidence. This includes detailed guidelines on logo use, color systems, typography, tone of voice, and visual behavior across platforms. It’s your ultimate reference guide to maintaining brand integrity, whether you’re scaling your team or working with external agencies.
 
-In addition to construction consultancy services **Bureau Veritas is a global leader in testing**, inspection and certification (TIC) and we have more than 190+ years of experience meaning that we also can assist you in other areas of your business if needed.   
+#### Want your team to speak the same visual and verbal language?

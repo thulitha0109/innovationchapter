@@ -3,7 +3,7 @@
 image: "/images/Services/Videography-100.jpg"
 icon: "/images/services/icons/videographyicon.webp"
 title: "Videography"
-short: "Lorem ipm dolor amet, consectetur adipiing lit Sunt sed ad possimus ils magnam maores."
+short: "Videos that captivate, engage, and leave a lasting impact."
 
 #full details
 accordion:

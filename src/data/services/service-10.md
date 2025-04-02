@@ -1,9 +1,9 @@
 ---
 #preview details
 image: "/images/Services/customsolutions.webp"
-icon: "/images/serv-icon4.png"
+icon: "/images/services/icons/Customsolutionsicon.webp"
 title: "Custom Solutions"
-short: "Providing comprehensive technical solutions tailored for businesses, especially solopreneurs and small enterprises."
+short: "Technical solutions tailored for businesses."
 
 #full details
 accordion:

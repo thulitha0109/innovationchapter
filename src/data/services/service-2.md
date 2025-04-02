@@ -1,9 +1,9 @@
 ---
 #preview details
-image: "/images/posts3.jpg"
-icon: "/images/serv-icon1.png"
-title: "Guidelines"
-short: "Lorem ipm dolor amet, consectetur adipiing lit Sunt sed ad possimus ils magnam maores."
+image: "/images/services/visualidentitysystem.webp"
+icon: "/images/services/icons/visualidentitysystem.png"
+title: "Visual Identity System"
+short: "A strong visual identity sets you apart and makes you memorable."
 
 #full details
 accordion:
@@ -23,29 +23,14 @@ accordion:
       content: Duis sed odio sit amet nibh vulputate cursus a sit tellus a odio tincdunt ilm auctor Class apten sociosqu a ds Etiam ante ex fermentum litora aorquper conuauris ine odi. Duis sed odio sit amet nibh vulputate cursus a sit tellus a odio tincdunt ilm auctor Class apten sociosqu a ds Et iam ante ex fermentum litora aorquper conuauris ine odi.
 
 additional:
-  enabled: 0
-  content: "
-    <h3>Highest Expectations</h3>
-		<p>We successfully cope with tasks of varying complexity, provide longterm guarantees and regularly master new technologies. Our portfolio includes <span style='text-decoration: underline;'>dozens of successfully</span> completed projects of houses of different stores, with high–quality finishes and good repairs.</p>
-		<ul>
-      <li>
-        Better defined projects, reducing risk.
-      </li>
-      <li>
-        We provide legislative compliance.
-      </li>
-      <li>
-        Cost savings by getting expert advice.
-      </li>
-      <li>
-        Realistic pricing and project timescales.
-      </li>
-		</ul>
+  enabled: 1
+  content: " <a class='onovo-btn onovo-hover-btn' href='/contact'><i class='arrow'><span></span></i><span>Start your visual journey </span></a>
+
   "
 ---
 
-### Behind the Branding of High Calgary’s Community
+**Create a visual identity that speaks volumes.**
 
-Our knowledgeable cost management experts understand the importance of delivering a project to meet your expectations in terms of cost, time, and quality. We will work with you to find the right, flexible and valuable solutions. No matter what sector you operate in, or the **scale of your project**, our team have the experience and know-how to support you with your goals.
+A strong visual identity sets you apart and makes you memorable. Our Visual Identity System brings your brand to life through compelling design—logos, color palettes, typography, iconography, and more. We don’t just design for aesthetics; we design for meaning and scalability. Every element is crafted to ensure your brand looks exceptional across websites, social media, print, packaging, and beyond.
 
-In addition to construction consultancy services **Bureau Veritas is a global leader in testing**, inspection and certification (TIC) and we have more than 190+ years of experience meaning that we also can assist you in other areas of your business if needed.
+#### Want to look like the brand your audience already trusts?

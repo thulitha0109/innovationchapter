@@ -1,9 +1,9 @@
 ---
 #preview details
 image: "/images/Services/Photography-100.jpg"
-icon: "/images/services/icons/Customsolutionsicon.webp"
+icon: "/images/services/icons/photographyicon.webp"
 title: "Photography"
-short: "Lorem ipm dolor amet, consectetur adipiing lit Sunt sed ad possimus ils magnam maores."
+short: "Enhances your brand’s online presence"
 
 #full details
 accordion:

@@ -1,13 +1,13 @@
 ---
 #preview details
-image: "/images/posts2.jpg"
-icon: "/images/serv-icon5.png"
-title: "Naming"
-short: "Lorem ipm dolor amet, consectetur adipiing lit Sunt sed ad possimus ils magnam maores."
+image: "/images/services/BrandVoiceNamingLab.webp"
+icon: "/images/services/icons/BrandVoiceNamingLab.png"
+title: "⁠Brand Voice & Naming Lab"
+short: "Find the perfect words to express your brand."
 
 #full details
 accordion:
-  enabled: 1
+  enabled: 0
   title: Solving Business Problems
   items:
     - heading: Secure Management and Workforce?
@@ -23,29 +23,14 @@ accordion:
       content: Duis sed odio sit amet nibh vulputate cursus a sit tellus a odio tincdunt ilm auctor Class apten sociosqu a ds Etiam ante ex fermentum litora aorquper conuauris ine odi. Duis sed odio sit amet nibh vulputate cursus a sit tellus a odio tincdunt ilm auctor Class apten sociosqu a ds Et iam ante ex fermentum litora aorquper conuauris ine odi.
 
 additional:
-  enabled: 0
-  content: "
-    <h3>Highest Expectations</h3>
-		<p>We successfully cope with tasks of varying complexity, provide longterm guarantees and regularly master new technologies. Our portfolio includes <span style='text-decoration: underline;'>dozens of successfully</span> completed projects of houses of different stores, with high–quality finishes and good repairs.</p>
-		<ul>
-      <li>
-        Better defined projects, reducing risk.
-      </li>
-      <li>
-        We provide legislative compliance.
-      </li>
-      <li>
-        Cost savings by getting expert advice.
-      </li>
-      <li>
-        Realistic pricing and project timescales.
-      </li>
-		</ul>
+  enabled: 1
+  content: "<a class='onovo-btn onovo-hover-btn' href='/contact'><i class='arrow'><span></span></i><span>Discover your brand language</span></a>
+
   "
 ---
 
-### Behind the Branding of High Calgary’s Community
+**Find the perfect words to express your brand.**
 
-Our knowledgeable cost management experts understand the importance of delivering a project to meet your expectations in terms of cost, time, and quality. We will work with you to find the right, flexible and valuable solutions. No matter what sector you operate in, or the **scale of your project**, our team have the experience and know-how to support you with your goals.
+Naming your brand is more than just picking something catchy—it’s about choosing a name and message that people remember and resonate with. In our Brand Voice & Naming Lab, we help you create impactful names, taglines, and message frameworks tailored to your target market. We validate every choice through research and deliver a voice that reflects your brand’s personality, values, and aspirations.
 
-In addition to construction consultancy services **Bureau Veritas is a global leader in testing**, inspection and certification (TIC) and we have more than 190+ years of experience meaning that we also can assist you in other areas of your business if needed.   
+#### Need a name that sticks and a voice that inspires?

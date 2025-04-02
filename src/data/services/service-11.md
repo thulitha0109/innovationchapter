@@ -1,13 +1,13 @@
 ---
 #preview details
-image: "/images/services/digitalmarketing.webp"
-icon: "/images/serv-icon4.png"
-title: "Digital Marketing"
-short: "Lorem ipm dolor amet, consectetur adipiing lit Sunt sed ad possimus ils magnam maores."
+image: "/images/services/PerformanceMarketingGrowth.webp"
+icon: "/images/services/icons/PerformanceMarketingGrowth.png"
+title: "Performance Marketing & Growth"
+short: "Focus on data-driven strategies that convert"
 
 #full details
 accordion:
-  enabled: 1
+  enabled: 0
   title: Solving Business Problems
   items:
     - heading: Secure Management and Workforce?
@@ -44,8 +44,6 @@ additional:
   "
 ---
 
-### Behind the Branding of High Calgary’s Community
+**Drive measurable results with every campaign.**
 
-Our knowledgeable cost management experts understand the importance of delivering a project to meet your expectations in terms of cost, time, and quality. We will work with you to find the right, flexible and valuable solutions. No matter what sector you operate in, or the **scale of your project**, our team have the experience and know-how to support you with your goals.
-
-In addition to construction consultancy services **Bureau Veritas is a global leader in testing**, inspection and certification (TIC) and we have more than 190+ years of experience meaning that we also can assist you in other areas of your business if needed.   
+Our Performance Marketing & Growth service takes the guesswork out of digital campaigns. We focus on data-driven strategies that convert—from SEO, PPC, and email automation to content marketing and social ads. Every campaign is optimized for your KPIs, delivering high-impact results and ROI. We continuously monitor, test, and scale to keep you ahead of the digital curve.
