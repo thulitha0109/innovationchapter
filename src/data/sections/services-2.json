@@ -31,30 +31,6 @@
             "link": "/services/service-13"
         },
         {
-            "icon": "/images/serv-icon4-1.png",
-            "title": "Brand Consulting",
-            "list": [
-                {
-                    "text": "Strategic Brand Blueprint",
-                    "link": "/services/service-1"
-                },
-                {
-                    "text": "Visual Identity System",
-                    "link": "/services/service-2"
-                },
-                {
-                    "text": "⁠Brand Voice & Naming Lab",
-                    "link": "/services/service-3"
-                },
-                {
-                    "text": "⁠Brand Governance Kit",
-                    "link": "/services/service-4"
-                }
-            ],
-            "link": "/services"
-        },
-
-        {
             "icon": "/images/serv-icon6-1.png",
             "title": "Digital Solutions",
             "list": [
@@ -77,7 +53,6 @@
             ],
             "link": "/services/service-9"
         },
-
         {
             "icon": "/images/serv-icon5-1.png",
             "title": "Brand Develpment",
@@ -100,6 +75,29 @@
                 }
             ],
             "link": "/services/service-5"
+        },
+        {
+            "icon": "/images/serv-icon4-1.png",
+            "title": "Brand Consulting",
+            "list": [
+                {
+                    "text": "Strategic Brand Blueprint",
+                    "link": "/services/service-1"
+                },
+                {
+                    "text": "Visual Identity System",
+                    "link": "/services/service-2"
+                },
+                {
+                    "text": "⁠Brand Voice & Naming",
+                    "link": "/services/service-3"
+                },
+                {
+                    "text": "⁠Brand Governance Kit",
+                    "link": "/services/service-4"
+                }
+            ],
+            "link": "/services"
         }
     ]
 }

@@ -3880,9 +3880,9 @@ ul.onovo-footer-menu li {
 
 .onovo-service-item .image {
 	position: relative;
-	margin: 0 auto -85px auto;
-	width: 161px;
-	height: 161px;
+	margin: 0 auto -75px auto;
+	width: 111px;
+	height: 111px;
 	display: flex;
 	justify-content: center;
 	align-items: center;
@@ -3909,8 +3909,8 @@ ul.onovo-footer-menu li {
 .onovo-service-item .image img {
 	width: auto;
 	height: auto;
-	max-width: 78px;
-	max-height: 78px;
+	max-width: 48px;
+	max-height: 48px;
 }
 
 .onovo-service-item .image .icon {
@@ -3952,12 +3952,13 @@ ul.onovo-footer-menu li {
 
 .onovo-service-item-inner .title {
 	margin: 0;
-	font-size: 30px;
+	font-size: 24px;
 	font-weight: 700;
 }
 
 .onovo-service-item-inner .list {
 	margin-top: 30px;
+	font-size: 14px;
 }
 
 .onovo-service-item-inner .list ul {
