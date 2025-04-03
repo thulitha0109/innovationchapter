@@ -1,6 +1,6 @@
 ---
 #preview details
-image: "/images/services/StrategicBrandBlueprint.webp"
+image: "/images/services/StrategicBrandBlueprint.jpg"
 icon: "/images/services/icons/StrategicBrandBlueprint.png"
 title: " Strategic Brand Blueprint"
 short: "Define your brand. Position it for success."

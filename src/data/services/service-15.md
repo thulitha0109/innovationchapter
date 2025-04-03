@@ -1,6 +1,6 @@
 ---
 #preview details
-image: "/images/Services/StartupInnovationAdvisory.webp"
+image: "/images/services/StartupInnovationAdvisory.jpg"
 icon: "/images/services/icons/StartupInnovationAdvisory.png"
 title: "Startup Innovation Advisory"
 short: "Guide you from ideation to launch"

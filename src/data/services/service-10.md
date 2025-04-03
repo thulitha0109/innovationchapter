@@ -1,6 +1,6 @@
 ---
 #preview details
-image: "/images/Services/customsolutions.webp"
+image: "/images/services/customsolutions.jpg"
 icon: "/images/services/icons/Customsolutionsicon.webp"
 title: "Custom Solutions"
 short: "Technical solutions tailored for businesses."

@@ -1,6 +1,6 @@
 ---
 #preview details
-image: "/images/services/PerformanceMarketingGrowth.webp"
+image: "/images/services/PerformanceMarketingGrowth.jpg"
 icon: "/images/services/icons/PerformanceMarketingGrowth.png"
 title: "Performance Marketing & Growth"
 short: "Focus on data-driven strategies that convert"

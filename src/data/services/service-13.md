@@ -1,6 +1,6 @@
 ---
 #preview details
-image: "/images/Services/_InnovationRoadmapping.webp"
+image: "/images/services/_InnovationRoadmapping.jpg"
 icon: "/images/services/icons/_InnovationRoadmapping.png"
 title: "⁠Innovation Roadmapping"
 short: "Define the future of your business"

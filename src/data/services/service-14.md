@@ -1,6 +1,6 @@
 ---
 #preview details
-image: "/images/Services/DesignThinkingFacilitation.webp"
+image: "/images/services/DesignThinkingFacilitation.jpg"
 icon: "/images/services/icons/DesignThinkingFacilitation.png"
 title: "⁠Design Thinking Facilitation"
 short: "Thinking process to solve real user problems"

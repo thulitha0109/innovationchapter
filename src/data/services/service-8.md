@@ -1,6 +1,6 @@
 ---
 #preview details
-image: "/images/Services/Videography-100.jpg"
+image: "/images/services/Videography-100.jpg"
 icon: "/images/services/icons/videographyicon.webp"
 title: "Videography"
 short: "Videos that captivate, engage, and leave a lasting impact."

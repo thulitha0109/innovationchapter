@@ -1,6 +1,6 @@
 ---
 #preview details
-image: "/images/services/visualidentitysystem.webp"
+image: "/images/services/visualidentitysystem.jpg"
 icon: "/images/services/icons/visualidentitysystem.png"
 title: "Visual Identity System"
 short: "A strong visual identity sets you apart and makes you memorable."

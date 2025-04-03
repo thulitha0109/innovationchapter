@@ -1,6 +1,6 @@
 ---
 #preview details
-image: "/images/services/BrandGovernanceKit.webp"
+image: "/images/services/BrandGovernanceKit.jpg"
 icon: "/images/services/icons/BrandGovernanceKit.png"
 title: "⁠Brand Governance Kit"
 short: "Keep your brand consistent, everywhere."

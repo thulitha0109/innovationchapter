@@ -1,6 +1,6 @@
 ---
 #preview details
-image: "/images/Services/CorporateInnovationLabs.webp"
+image: "/images/services/CorporateInnovationLabs.jpg"
 icon: "/images/services/icons/CorporateInnovationLabs.png"
 title: "Corporate Innovation Labs"
 short: "Embed innovation culture within your organization"

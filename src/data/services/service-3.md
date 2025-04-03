@@ -1,6 +1,6 @@
 ---
-#preview details
-image: "/images/services/BrandVoiceNamingLab.webp"
+#preview jpg
+image: "/images/services/BrandVoiceNamingLab.jpg"
 icon: "/images/services/icons/BrandVoiceNamingLab.png"
 title: "⁠Brand Voice & Naming Lab"
 short: "Find the perfect words to express your brand."

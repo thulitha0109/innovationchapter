@@ -1,7 +1,7 @@
 ---
 #preview details
-image: "/images/services/icons/DigitalInnovationStrategy.png"
-icon: "/images/services/DigitalInnovationStrategy.png"
+image: "/images/services/DigitalInnovationStrategy.jpg"
+icon: "/images/services/icons/DigitalInnovationStrategy.png"
 title: "Digital Innovation Strategy"
 short: "Bridges creativity and technology to future-proof your business. "
 

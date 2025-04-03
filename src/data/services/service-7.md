@@ -1,6 +1,6 @@
 ---
 #preview details
-image: "/images/services/UIUX.webp"
+image: "/images/services/UIUX.jpg"
 icon: "/images/services/icons/uiuxicon.webp"
 title: "UI - UX"
 short: "Digital experiences that captivate users."

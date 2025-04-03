@@ -1,6 +1,6 @@
 ---
 #preview details
-image: "/images/services/BrandDesign.webp"
+image: "/images/services/BrandDesign.jpg"
 icon: "/images/services/icons/branddesignicon.webp"
 title: "Brand Design"
 short: "Identities that leave a lasting impression.."

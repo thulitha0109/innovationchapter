@@ -1,6 +1,6 @@
 ---
 #preview details
-image: "/images/Services/ShopifyWeb-100.webp"
+image: "/images/services/ShopifyWeb-100.jpg"
 icon: "/images/services/icons/shopifysolutionsicon.webp"
 title: "Shopify Solutions"
 short: "Make your brand stand out and grow"
@@ -44,7 +44,7 @@ additional:
   "
 ---
 
-### Shopify Web/Apps
+### Shopify Solutions
 
 We create Shopify solutions to help your brand stand out and grow.
 Our services include brand design, Shopify theme development,
