@@ -1,6 +1,5 @@
 import PageBanner from "@components/PageBanner";
 import Layouts from "@layouts/Layouts";
-import Accordion from 'react-bootstrap/Accordion';
 import appData from "@data/app.json";
 import { Formik } from 'formik';
 
@@ -211,47 +210,6 @@ const Contact = () => {
                 </div>
             </div>
         </section>
-
-        {/* Onovo Faq */}
-        <section className="onovo-section gap-top-140">
-            <div className="container">
-
-                {/* Heading */}
-                <div className="onovo-heading align-center gap-bottom-40">
-                    <div className="onovo-subtitle-1">
-                        <span>{faqData.title}</span>
-                    </div>
-                    <h2 className="onovo-title-2">
-                        <span dangerouslySetInnerHTML={{ __html: faqData.subtitle }} />
-                    </h2>
-                </div>
-
-                {/* Faq items */}
-                <div className="onovo-faq-items">
-                <Accordion defaultActiveKey="faq-acc-0">
-                    {faqData.items.map((item, key) => (
-                    <Accordion.Item key={`faq-item-${key}`} eventKey={`faq-acc-${key}`}>
-                    <div key={`faq-item-${key}`} className="onovo-faq-item onovo-collapse-item">
-                        <Accordion.Header>
-                        <h5 className="title onovo-collapse-btn">
-                            <span>{item.title}</span>
-                            <i className="arrow" />
-                        </h5>
-                        </Accordion.Header>
-                        <Accordion.Body>
-                        <div className="onovo-text">
-                            <div dangerouslySetInnerHTML={{ __html: item.text }} />
-                        </div>
-                        </Accordion.Body>
-                    </div>
-                    </Accordion.Item>
-                    ))}
-                </Accordion>
-                </div>
-                
-            </div>
-        </section>
-      
     </Layouts>
   );
 };

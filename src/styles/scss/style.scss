@@ -4392,7 +4392,11 @@ ul.onovo-footer-menu li {
 
 }
 
-
+@media (max-width: 430px) {
+	.onovo-service-item-inner .title {
+		font-size: 20px;
+	}
+}
 /*---
 	6. Numbers
 ---*/
