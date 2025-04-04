@@ -45,7 +45,7 @@ const Footer2 = () => {
 
 							{/* Description */}
 							<div className="onovo-text">
-								From the moment our company was founded, we have helped our clients find exceptional solutions <strong>for their businesses</strong>.
+								<p>From the moment our company was founded, we have helped our clients find exceptional solutions <strong>for their businesses</strong>.</p>
 							</div>
 
 						</div>
