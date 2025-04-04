@@ -2,7 +2,7 @@
 #preview
 title: Brown & Company PLC
 image: /images/Shopify/Browns/https-_brownsdeals.com_.psd.jpg
-category: Shopify Solutions
+category: Shopify
 category_slug: shopify
 type: Shopify
 team: Thomas Jackki

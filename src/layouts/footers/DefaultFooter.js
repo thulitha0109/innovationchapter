@@ -19,18 +19,18 @@ const DefaultFooter = () => {
                     <div className="row">
                         <div className="col-xs-12 col-sm-12 col-md-6 col-lg-3">
 
-                            {/* Description */}
-                            <div className="onovo-text onovo-text-white">
-                                <h5>Information</h5>
-                                <p style={{"opacity": "0.6"}}>From the moment our company was founded, we have helped our clients find exceptional solutions <strong>for their businesses</strong>. </p>
-                            </div>
-
         					{/* Logo */}
 							<div className="onovo-f-logo gap-bottom-40" style={{"maxWidth": "100px"}}>
 								<Link href="/">
 									<img src={appData.footer.logo.image_white} alt={appData.footer.logo.alt} />
 								</Link>
 							</div>
+
+                            {/* Description */}
+                            <div className="onovo-text onovo-text-white">
+                                <h5>Information</h5>
+                                <p style={{"opacity": "0.6"}}>From the moment our company was founded, we have helped our clients find exceptional solutions <strong>for their businesses</strong>. </p>
+                            </div>
 
                         </div>
                         <div className="col-xs-12 col-sm-12 col-md-6 col-lg-4 offset-lg-1">
@@ -50,8 +50,8 @@ const DefaultFooter = () => {
 						<div className="col-xs-12 col-sm-12 col-md-6 col-lg-3 offset-lg-1">
 
 							{/* Description */}
-							<div className="onovo-text onovo-text-white">
-								<ul className="onovo-footer-menu">
+							<div className="onovo-text onovo-text-white"><h5>Menu</h5>
+								<ul className="onovo-footer-menu" style={{"opacity": "0.6"}}>
 									<li>
 										<Link href="/">
 											<span className="onovo-lnk">Home</span>

@@ -85,12 +85,11 @@ const DefaultHeader = ({ darkHeader, cartButton }) => {
               <div className="col-4 col-xs-4 col-sm-4 col-md-4 col-lg-6 align-self-center align-center">
 
                 {/* Menu Hamburger */}
-                <a href="#" className={desktopMenu ? "onovo-menu-btn btn--active" : "onovo-menu-btn"} onClick={ (e) => clickedDesktopMenu(e) }><span /></a>
+                <a href="#" className={desktopMenu ? "onovo-menu-btn btn--active" : "onovo-menu-btn"} style={{"display": "none"}} onClick={ (e) => clickedDesktopMenu(e) }><span /></a>
 
                 <div className="onovo-menu-popup align-left">
-                  <div className="onovo-menu-overlay" />
-                  <div className="onovo-menu-overlay-after" />
-
+                  <div className="onovo-menu-overlay"></div>
+                  <div className="onovo-menu-overlay-after"></div>
                   <div className="onovo-menu-container onovo--noscroll">
                     <div className="container">
                       <div className="onovo-menu">
@@ -98,16 +97,16 @@ const DefaultHeader = ({ darkHeader, cartButton }) => {
                           {navItems.map((item, key) => (
                           <li key={`header-nav-item-${key}`} className={item.classes}>
                             <Link className={item.children ? "onovo-lnk lnk--active onovo-dropdown-toggle" : "onovo-lnk lnk--active"} onClick={item.children != 0 ? (e) => clickedMobileMenuItemParent(e) : ""} href={item.link}>{item.label}</Link>
-                            {item.children != 0 &&
+                            {item.children &&
                             <i className="icon fas fa-chevron-down" />
                             }
                             {item.children != 0 &&
                             <ul className="sub-menu">
-                              {item.children.map((subitem, key) => (
-                              <li key={`header-nav-sub-item-${key}`}>
-                                <Link className="onovo-lnk lnk--active" href={subitem.link}>{subitem.label}</Link>
-                              </li>
-                              ))}
+                            {item.children.map((subitem, key) => (
+                            <li key={`header-nav-sub-item-${key}`}>
+                              <Link className="onovo-lnk lnk--active" href={subitem.link}>{subitem.label}</Link>
+                            </li>
+                            ))}
                             </ul>
                             }
                           </li>

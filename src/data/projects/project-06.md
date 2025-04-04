@@ -2,7 +2,7 @@
 #preview
 title: Dealo.io
 image: /images/Custom/dealogroup/1200x900_dealogroup_main copy.jpg
-category: Custom Solutions
+category: Custom
 category_slug: custom-solutions
 type: Cloud solutions
 team: Ilutechnologies

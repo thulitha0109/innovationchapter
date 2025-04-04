@@ -2,7 +2,7 @@
 #preview
 title: ASP Rubber Industries AU
 image: /images/Shopify/ASP/https-_aspsuspension.com.au.jpg
-category: Shopify Solutions
+category: Shopify
 category_slug: shopify
 type: Shopify
 team: Lina Watson

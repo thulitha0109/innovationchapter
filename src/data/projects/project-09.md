@@ -2,7 +2,7 @@
 #preview
 title: Ckwai Clothing
 image: /images/Custom/ckwaiclothing/1200x900-ckwaiclothing-main.jpg
-category: Custom Solutions
+category: Custom
 category_slug: custom-solutions
 type: Cloud solutions
 team: Ilutechnologies

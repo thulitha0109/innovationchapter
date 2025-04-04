@@ -52,7 +52,7 @@ const Footer2 = () => {
 						<div className="col-xs-12 col-sm-12 col-md-6 col-lg-3 offset-lg-1">
 
 							{/* Description */}
-							<div className="onovo-text">
+							<div className="onovo-text"><h5>Menu</h5>
 								<ul className="onovo-footer-menu">
 									<li>
 										<Link href="/">

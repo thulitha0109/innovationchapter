@@ -2,7 +2,7 @@
 #preview
 title: Siyath (Spa Ceylon New Zealand)
 image: /images/Shopify/Siyath/https-_siyath.co.nz_.psd.jpg
-category: Shopify Solutions
+category: Shopify
 category_slug: shopify
 type: Shopify
 team: Thomas Jackki

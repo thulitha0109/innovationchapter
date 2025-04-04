@@ -6,11 +6,11 @@
         "portfolio": {
             "categories": [
                 {
-                    "label": "Shopify Solutions",
+                    "label": "Shopify",
                     "slug": "shopify"
                 },
                 {
-                    "label": "Custom Solutions",
+                    "label": "Custom",
                     "slug": "custom-solutions"
                 },
                 {
@@ -60,7 +60,9 @@
             {
                 "label": "Contact Us",
                 "link": "/contact",
-                "children": 0
+                "children": [
+
+                ]
             }
         ],
         "button": {

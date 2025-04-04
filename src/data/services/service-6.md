@@ -1,6 +1,6 @@
 ---
 #preview details
-image: "/images/services/Photography-100.jpg"
+image: "/images/services/Photography.webp"
 icon: "/images/services/icons/photographyicon.webp"
 title: "Photography"
 short: "Enhances your brand’s online presence"

@@ -1535,7 +1535,9 @@ a.onovo-btn.btn--border.btn--color:hover,
 	transform: scale(1);
 	-webkit-transform: scale(1);
 }
-
+.onovo-hover-btn {
+	margin-bottom:  2em;
+}
 .onovo-btn.btn--large.btn--icon i {
 	margin: 0 23px 0 -20px;
 	width: 60px;
@@ -2908,7 +2910,7 @@ a.onovo-menu-btn,
 	margin-left: 15px;
 	position: relative;
 	top: 30px;
-	display: inline-block;
+	display: none;
 	vertical-align: top;
 	width: 30px;
 	height: 30px;
@@ -6514,8 +6516,8 @@ body .onovo-subscribe-form .submit-container {
 }
 
 .onovo-breadcrums ul li {
-	margin-right: 30px;
-	padding-right: 30px;
+	margin-right: 24px;
+	padding-right: 24px;
 	border-right: 1px solid #C0C0C0;
 }
 
@@ -6536,6 +6538,14 @@ body .onovo-subscribe-form .submit-container {
 	}
 	.onovo-breadcrums ul li {
 		font-size: 14px;
+	}
+}
+
+@media (max-width: 450px) {
+	.onovo-breadcrums ul li {
+		font-size: 11px;
+		margin-right: 14px;
+		padding-right: 14px;
 	}
 }
 

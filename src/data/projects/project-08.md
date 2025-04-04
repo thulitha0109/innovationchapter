@@ -2,7 +2,7 @@
 #preview
 title: Ilu Technologies
 image: /images/Custom/ilutechnologies/1200x750_ilutechnologies_1.jpg
-category: Custom Solutions
+category: Custom
 category_slug: custom-solutions
 type: Cloud solutions
 team: Ilutechnologies

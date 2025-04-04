@@ -2,7 +2,7 @@
 #preview
 title: Amore
 image: /images/Shopify/Amore/https-_amoreclothing.lk.jpg
-category: Shopify Solutions
+category: Shopify
 category_slug: shopify
 type: Shopify
 team: Lina Watson

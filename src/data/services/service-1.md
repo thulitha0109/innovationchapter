@@ -25,7 +25,7 @@ accordion:
 additional:
   enabled: 1
   content: "
-    <a class='onovo-btn onovo-hover-btn' href='/contact'><i class='arrow'><span></span></i><span>Let’s craft your strategy</span></a>
+    <a class='onovo-btn onovo-hover-btn gap-bottom-20' href='/contact'><i class='arrow'><span></span></i><span>Let’s craft your strategy</span></a>
   "
 ---
 

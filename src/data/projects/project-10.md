@@ -2,7 +2,7 @@
 #preview
 title: MPCS Passara
 image: /images/Custom/mpcspassara/1200x900-mpcspassara-main.jpg
-category: Custom Solutions
+category: Custom
 category_slug: custom-solutions
 type: Cloud solutions
 team: Ilutechnologies
