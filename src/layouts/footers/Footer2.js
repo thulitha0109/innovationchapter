@@ -34,7 +34,7 @@ const Footer2 = () => {
 						<div className="col-xs-12 col-sm-12 col-md-6 col-lg-2">
 
 							{/* Logo */}
-							<div className="onovo-f-logo gap-bottom-40" style={{"maxWidth": "100px"}}>
+							<div className="onovo-f-logo gap-bottom-40" style={{"maxWidth": "120px"}}>
 								<Link href="/">
 									<img src={appData.footer.logo.image} alt={appData.footer.logo.alt} />
 								</Link>
